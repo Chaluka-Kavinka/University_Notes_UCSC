@@ -1,9 +1,9 @@
 {
-  "accentColor": "#006f85",
+  "accentColor": "",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
   "theme": "system",
-  "cssTheme": "Cupertino",
+  "cssTheme": "Catppuccin",
   "showViewHeader": true,
   "nativeMenus": true,
   "showRibbon": true

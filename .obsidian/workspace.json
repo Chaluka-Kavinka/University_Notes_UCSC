@@ -4,93 +4,121 @@
     "type": "split",
     "children": [
       {
-        "id": "9bfd16db1f9bcbd7",
-        "type": "tabs",
+        "id": "dc993b3fd925cb04",
+        "type": "split",
         "children": [
           {
-            "id": "2039909fa7da55ce",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "c7e458b60bfbc1fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "72f311cd49798aa9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b94c7bfa1855054e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "📖 IS2203 - Object Oriented Programming"
                 }
               },
-              "icon": "lucide-file",
-              "title": "👉🏻 IS1206 - Mathematics for Computing"
-            }
+              {
+                "id": "c15aea5679657a60",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Introduction to Programming Paradigms.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Introduction to Programming Paradigms"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "6a3054ef6a51d550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Set Theory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "cefcab3eae32e6f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c4a68ff695b20ad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
                 }
               },
-              "icon": "lucide-file",
-              "title": "Set Theory"
-            }
-          },
-          {
-            "id": "537ba6729f199bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+              {
+                "id": "59583e9eb5ac89ae",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/👉🏻 IS1214 - Data Structures and Algorithms (Lesson Plan).md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "👉🏻 IS1214 - Data Structures and Algorithms (Lesson Plan)"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
+              }
+            ],
+            "currentTab": 1
           }
         ],
-        "currentTab": 2
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -110,7 +138,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -147,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 330
   },
   "right": {
     "id": "4c057cc63347afdb",
@@ -156,7 +184,7 @@
       {
         "id": "456e5f707034a639",
         "type": "tabs",
-        "dimension": 42.13649851632047,
+        "dimension": 61.06870229007634,
         "children": [
           {
             "id": "09f8df5c3302a825",
@@ -182,12 +210,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Set Theory.md",
+                "file": "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Introduction to Programming Paradigms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Set Theory"
+              "title": "Outgoing links from Introduction to Programming Paradigms"
             }
           },
           {
@@ -252,7 +280,7 @@
       {
         "id": "5ca9c691d47aa69a",
         "type": "tabs",
-        "dimension": 57.86350148367953,
+        "dimension": 38.93129770992366,
         "children": [
           {
             "id": "c8b0b71c0703baa0",
@@ -260,7 +288,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Set Theory.md",
+                "file": "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Introduction to Programming Paradigms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -288,15 +316,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Set Theory"
+              "title": "Graph of Introduction to Programming Paradigms"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 342
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,10 +339,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6a3054ef6a51d550",
+  "active": "c15aea5679657a60",
   "lastOpenFiles": [
+    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Numbers and Arithmetic.md",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Introduction to Programming Paradigms.md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/👉🏻 IS1214 - Data Structures and Algorithms (Lesson Plan).md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Introduction & Arrays.md",
     "README.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming",
+    "Academic Year 02/Semester 01",
+    "Academic Year 02",
+    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Set Theory.md",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Relations and Functions.md",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Linear Algebra - Vectors and Matrices.md",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Techniques of Counting.md",
@@ -323,9 +359,7 @@
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts/mindmap.html",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Mathematical Logic.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Set Theory.md",
     "LICENSE.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Numbers and Arithmetic.md",
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/👉🏻 IS1205 - Introduction to Management.md",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Introduction to System & Designs.md",
@@ -335,9 +369,6 @@
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 -Management- Ethics and Professionalism L5 LMS.pdf",
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 - Management- Ethics and Professionalism  Busines Strategies L5 L6 L7 -VLE.pdf",
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 - IS New-Marketing_Lecture 6 7 8 VLE.pdf",
-    "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 IS Management L1 L2 L3 LMS.pdf",
-    "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes",
-    "Academic Year 01/Semester - 01/IS1204 - Fundamentals of Software Engineering/Lecture Notes/13.Software Evolution.pdf",
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Motivation and Leadership.md",
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Ethics and Professional Issues.md",
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Business & Marketing Strategies.md",
@@ -346,10 +377,6 @@
     "Academic Year 01/Semester - 01/IS1204 - Fundamentals of Software Engineering/👉🏻 IS1204 - Fundamentals of Software Engineering.md",
     "Academic Year 01/Semester - 01/IS1203 - Foundations Of Information Systems/👉🏻 IS1203 - Foundations Of Information Systems.md",
     "Academic Year 01/Semester - 02/IS1211 - Computer Networks/👉🏻 IS1211 - Computer Networks (Lesson Plan).md",
-    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Class Diagrams and some Agile Techniques.md",
-    "Academic Year 01/Semester - 01/IS1204 - Fundamentals of Software Engineering/Software Evolution.md",
-    "Academic Year 01/Semester - 01/IS1204 - Fundamentals of Software Engineering/Software Testing.md",
-    "Academic Year 01/Semester - 01/IS1204 - Fundamentals of Software Engineering/Design and Implementation.md",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/Activity Diagram/final-state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/Iinitial -state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/final-state.jpg",
