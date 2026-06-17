@@ -27,50 +27,44 @@ Overall, the module aims to provide you with a robust framework for designing so
 
 ---
 # Topic Covered
-1. [[Introduction to Programming Paradigms]]
+1. [[Foundations of the OOP Paradigm]]
+	This introductory section explores why software development shifted from procedural steps to object-oriented design.
+	- **Procedural vs. OOP:** Understanding the move from a "sequence of instructions" to "real-world entities" (objects) that combine attributes and behaviors.
+	- **The Four Pillars:** Mastery of **Inheritance, Abstraction, Encapsulation, and Polymorphism**.
+	- **C++ Origins:** The history of C++ as an extension of C by Bjarne Stroustrup, incorporating advanced features like classes and the increment operator (++) in its naming.
 
-The module begins by contrasting **Procedural Programming** with **Object-Oriented Programming (OOP)**.
+2. [[C++ Language Fundamentals & Data Types]]
+	Before diving into complex objects, the module covers how data is structured in memory.
+	- **Data Type Categories:** Distinguishing between **Primary** (int, char, bool), **Derived** (Functions, Arrays, Pointers, References), and **User-Defined** (Classes, Structures) types.
+	- **Pointers and References:** Understanding memory addresses through pointer syntax (`*`) and alternative naming via references (`&`).
+	- **Evolution of Structures:** How C++ "structs" evolved into classes, including the ability to hold both data and member functions.
 
-- **Procedural Programming:** Focuses on a sequence of instructions, dividing programs into functions and modules. It often suffers from "unrestricted access to global data" and is difficult to modify as complexity increases.
-- **Object-Oriented Programming:** Organizes design around **objects** (real-world entities) that combine **attributes (data)** and **behaviors (methods)**. It emphasizes **modularity, reusability, and security**.
+3. [[Building Classes and Objects]]
+	This topic focuses on the syntax and mechanics of creating the "blueprints" for your software.
+	- **Class Anatomy:** Defining **Data Members** (attributes) and **Member Functions** (behaviors).
+	- **Access Specifiers:** Implementing security through **public** (accessible outside), **private** (internal only), and **protected** keywords.
+	- **Member Access:** Using the **dot operator (.)** for direct access and the **arrow operator (->)** when referring to a class via a pointer.
 
-2. [[Core Principles of OOP]]
+4. [[The Object Life-cycle (Constructors & Destructors)]]
+	One of the most critical topics, focusing on how objects are "born," managed, and "destroyed" to prevent memory leaks.
+	- **Constructors:** Special functions (Default, Parameterized, and Copy) that ensure an object starts in a "valid, predictable state".
+	- **Advanced Initialization:** Using **Initializer Lists** for efficiency and **Constructor Overloading** to provide multiple ways to create an object.
+	- **The Copy Constructor:** Learning the difference between a compiler-generated **bit-wise copy** and a user-defined copy needed for objects with pointers.
+	- **Destructors:** The tilde (`~`) syntax used to release resources when an object ceases to exist.
+5. [[Memory Management and Advanced Scoping]]
+	Mastering how the computer allocates resources during a program's execution.
+	- **Scope & Namespaces:** Using the **Scope Resolution Operator (::)** to define functions outside classes and manage global vs. local variable conflicts.
+	- **Dynamic Memory:** Utilizing **new** and **delete** keywords to allocate storage at run-time rather than compile-time.
+	- **Nested & Member Objects:** Creating complex classes that contain other classes as members (e.g., a "Cylinder" class containing a "Circle" object).
 
-You will need to master the four pillars of OOP discussed in your lectures:
+6. [[Specialized Class Members and Keywords]]
+	Refining class behavior using advanced C++ keywords.
+	- **Static Members:** Variables and functions that are shared by the entire class rather than owned by a specific object.
+	- **The** **const** **Keyword:** Protecting data by creating constant variables, constant pointers, and **constant member functions** that cannot modify an object’s data.
+	- **The** **this** **Pointer:** Understanding the implicit "hidden" pointer that points to the object currently invoking a method.
 
-- **Inheritance:** Creating new classes that derive properties and characteristics from existing ones, reducing code redundancy.
-- **Abstraction:** Providing only essential information to the outside world while hiding implementation details.
-- **Encapsulation (Data Hiding):** Wrapping data and functions into a single unit (class) to prevent accidental external interference.
-- **Polymorphism:** The ability of a message or function to be displayed or behave in more than one form.
-
-3. [[C++ Language Basics and Data Types]]
-
-The module utilizes **C++** as its primary language, covering its history as an extension of C developed by Bjarne Stroustrup. Key technical topics include:
-
-- **Data Types:** Categorized into **Primary** (int, char, float), **Derived** (Arrays, Pointers, References), and **User-Defined** (Structures, Classes).
-- **Pointers and References:** Understanding symbolic representations of memory addresses and alternative names for variables.
-- **Structures (struct):** A precursor to classes used to group different data types, though in C++ they can also contain member functions.
-
-4. [[Working with Classes and Objects]]
-
-A significant portion of the module focuses on the transition from structures to **classes**.
-
-- **Class Anatomy:** Defining **Data Members** (variables) and **Member Functions** (behavior) within a class.
-- **Access Specifiers:** Using **public**, **private**, and **protected** keywords to control data visibility. By default, class members are private.
-- **Member Access:** Using the **dot operator (.)** for objects and the **arrow operator (->)** for pointers to objects.
-- **Scope Resolution Operator (::):** Used to define functions outside of a class, access global variables, or refer to namespaces.
-
-5. [[Object Lifecycle: Constructors and Destructors]]
-
-You will study how objects are created and destroyed:
-
-- **Constructors:** Special functions automatically called upon object instantiation to initialize data members. These include **Default**, **Parameterized**, and **Copy Constructors**.
-- **Constructor Overloading:** Defining multiple constructors with different parameter lists.
-- **Initializer Lists:** An efficient way to specify initial values for data members.
-- **Destructors:** Functions preceded by a tilde (~), automatically called when an object ceases to exist to release resources.
-
-6. [[Memory Management and Advanced Scoping]]
-
-- **Variable Scope:** Differentiating between **local variables** (inside a block) and **global variables** (accessible throughout the program).
-- **Namespaces:** Defining spaces to prevent identifier name conflicts.
-- **Dynamic Memory Allocation:** Using the **new** keyword to allocate memory at runtime and the **delete** keyword to free it, ensuring efficient memory use.
+7. [[Polymorphism (Overloading Functions & Operators)]]
+	The final section covers how to give multiple meanings to functions and symbols.
+	- **Function Overloading:** Defining multiple functions with the same name but different parameter lists, allowing the compiler to choose the "best match".
+	- **Operator Overloading:** Using the **operator** keyword to redefine how standard symbols (like `+`, `-`, or `++`) interact with your custom class objects.
+	- **Unary vs. Binary Overloading:** Learning to overload operators that act on a single operand (like prefix/postfix `++`) versus those acting on two (like `+`).
