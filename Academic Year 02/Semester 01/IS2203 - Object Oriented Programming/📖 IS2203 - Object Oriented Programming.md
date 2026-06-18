@@ -5,7 +5,7 @@
 #Lesson-Plan 
 
 
-> [!NOTE] Goal
+> [!important] Goal
 > The primary goal of this module is to transition your programming approach from a procedural mindset to an **Object-Oriented Programming (OOP) paradigm**, which organizes software design around real-world objects rather than just functions and logic.
 
 ---

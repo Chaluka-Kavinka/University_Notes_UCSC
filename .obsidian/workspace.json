@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "72f311cd49798aa9",
+        "id": "9d38a920a3f124ee",
         "type": "tabs",
         "children": [
           {
-            "id": "b94c7bfa1855054e",
+            "id": "ddbd7496b390d279",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
-                "mode": "source",
+                "file": "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📖 IS2203 - Object Oriented Programming"
-            }
-          },
-          {
-            "id": "738802316e3abca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Polymorphism (Overloading Functions & Operators).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Polymorphism (Overloading Functions & Operators)"
+              "title": "📖 IS2205 - Mobile Application Design and Development"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,11 +253,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "738802316e3abca5",
+  "active": "ddbd7496b390d279",
   "lastOpenFiles": [
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Specialized Class Members and Keywords.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Polymorphism (Overloading Functions & Operators).md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Activity Life Cycle.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Modern UI with Jetpack Compose.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Android Application Project Elements.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Kotlin Programming.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Introduction to Mobile Computing.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development",
+    "Academic Year 02/Semester 01/Untitled.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Polymorphism (Overloading Functions & Operators).md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Specialized Class Members and Keywords.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Memory Management and Advanced Scoping.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/The Object Life-cycle (Constructors & Destructors).md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
@@ -304,18 +287,10 @@
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts/mindmap.html",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Mathematical Logic.md",
-    "LICENSE.md",
-    "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/👉🏻 IS1205 - Introduction to Management.md",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing",
-    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Introduction to System & Designs.md",
-    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/👉🏻 IS1208 - Systems Analysis and Design (Lesson Plan).md",
-    "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Information Systems and eBusiness.md",
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 - Motivation-Leadership new.pdf",
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 -Management- Ethics and Professionalism L5 LMS.pdf",
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 - Management- Ethics and Professionalism  Busines Strategies L5 L6 L7 -VLE.pdf",
-    "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 - IS New-Marketing_Lecture 6 7 8 VLE.pdf",
-    "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Motivation and Leadership.md",
-    "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Ethics and Professional Issues.md",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/Activity Diagram/final-state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/Iinitial -state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/final-state.jpg",
