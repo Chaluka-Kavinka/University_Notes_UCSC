@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d38a920a3f124ee",
+        "id": "767422007145d094",
         "type": "tabs",
         "children": [
           {
-            "id": "ddbd7496b390d279",
+            "id": "8aaac0809ca6890b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
+                "file": "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📖 IS2205 - Mobile Application Design and Development"
+              "title": "📖 IS2203 - Object Oriented Programming"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -88,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 210.5
   },
   "right": {
     "id": "4c057cc63347afdb",
@@ -166,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Polymorphism (Overloading Functions & Operators).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Polymorphism (Overloading Functions & Operators)"
+              "title": "Outline"
             }
           },
           {
@@ -201,7 +201,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Polymorphism (Overloading Functions & Operators).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,19 +223,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6024013357398853,
+                  "scale": 0.6024013357398852,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Polymorphism (Overloading Functions & Operators)"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 342,
+    "width": 425.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -250,47 +249,48 @@
       "bases:Create new base": false,
       "publish:Publish changes...": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ddbd7496b390d279",
+  "active": "8aaac0809ca6890b",
   "lastOpenFiles": [
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/The Object Life-cycle (Constructors & Destructors).md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Modern UI with Jetpack Compose.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Activity Life Cycle.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Modern UI with Jetpack Compose.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Android Application Project Elements.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Kotlin Programming.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Introduction to Mobile Computing.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/📖 IS2206 - Business Process Management.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Introduction to Business Processes.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/BPM Suites (BPMS).md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Business Process Modeling (BPMN).md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/The BPM Life Cycle.md",
+    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/👉🏻 IS1208 - Systems Analysis and Design (Lesson Plan).md",
+    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Introduction to System & Designs.md",
+    "README.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Process Identification & Architecture.md",
+    "Excalidraw/Drawing 2026-06-19 10.08.51.excalidraw.md",
+    "Excalidraw",
+    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Activity Diagrams.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development",
     "Academic Year 02/Semester 01/Untitled.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Polymorphism (Overloading Functions & Operators).md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Specialized Class Members and Keywords.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Memory Management and Advanced Scoping.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/The Object Life-cycle (Constructors & Destructors).md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/C++ Language Fundamentals & Data Types.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Building Classes and Objects.md",
-    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Introduction & Arrays.md",
-    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/👉🏻 IS1214 - Data Structures and Algorithms (Lesson Plan).md",
-    "README.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Numbers and Arithmetic.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming",
     "Academic Year 02/Semester 01",
     "Academic Year 02",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Set Theory.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Relations and Functions.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Linear Algebra - Vectors and Matrices.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Techniques of Counting.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Indices and Logarithms.md",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts/mindmap.html",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Mathematical Logic.md",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing",
     "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 - Motivation-Leadership new.pdf",
-    "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 -Management- Ethics and Professionalism L5 LMS.pdf",
-    "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 - Management- Ethics and Professionalism  Busines Strategies L5 L6 L7 -VLE.pdf",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/Activity Diagram/final-state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/Iinitial -state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/final-state.jpg",
