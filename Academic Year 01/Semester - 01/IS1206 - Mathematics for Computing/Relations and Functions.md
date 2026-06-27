@@ -26,7 +26,7 @@
 The sources identify five ways to represent these connections:
 
 1. **Roster Form:** Listing the elements as ordered pairs, e.g., $R=\{(−1,1),(0,0),(1,1)\}$.
-2. **Set-Builder Form:** Using an algebraic rule, e.g., $$R=\{(a,b):a \in A,b \in B \text{ and } b=a^2 \}$$
+2. **Set-Builder Form:** Using an algebraic rule, e.g., $$R=\{ (a,b) \mid a \in A, b \in B \text{ and } b=a^2 \}$$
 3. **Arrow Diagrams:** Drawing lines to connect elements in one box to elements in another.
 4. **Tabular Form:** Organizing inputs and outputs in a table.
 5. **Lattice/Graphical Form:** Plotting the ordered pairs as points on a Cartesian plane.

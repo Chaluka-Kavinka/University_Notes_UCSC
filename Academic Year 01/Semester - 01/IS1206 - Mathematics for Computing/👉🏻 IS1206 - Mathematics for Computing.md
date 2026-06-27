@@ -66,9 +66,6 @@ Upon completion of this course, students should be able to:
 - Construct and evaluate logical expressions using principles of mathematical logic.
 - Solve problems using indices, logarithms, and counting techniques such as permutations and combinations.
 - Perform vector and matrix operations to solve linear equations and represent data.
-
-![[mindmap.html]]
-
 # Topics Covered
 
 The comprehensive list of covered topics for the **IS1206 - Mathematics for Computing** course, structured according to the syllabus :
