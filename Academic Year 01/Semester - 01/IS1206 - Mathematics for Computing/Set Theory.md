@@ -18,7 +18,7 @@ This subject is foundational for computing, particularly in areas like database 
 There are two primary ways to describe a set in your sources:
 
 - **Roster Form:** Listing all elements inside braces, separated by commas (e.g., $A = \set{a,b,c,d,e}$).
-- **Set-Builder Form:** Using a statement or algebraic expression to define the elements e.g., $$\set{x:x∈Z,0<x<20,x \text{ is odd}}$$
+- **Set-Builder Form:** Using a statement or algebraic expression to define the elements e.g., $$\{x \in \mathbb{Z} \mid 0 < x < 20, x \text{ is odd}\}$$
 # 3. Types of Sets
 
 Understanding the different categories of sets is essential for logical classification:
