@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cbf2000d2c8129bd",
+        "id": "ff69357a8d167422",
         "type": "tabs",
         "children": [
           {
-            "id": "659ea252c2d63acf",
+            "id": "37bc91f1d4feaa7e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 325.5
   },
   "right": {
     "id": "4c057cc63347afdb",
@@ -241,34 +241,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dcf4301b09e6c6ad",
+  "active": "37bc91f1d4feaa7e",
   "lastOpenFiles": [
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Kotlin Programming.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Searching Complexity.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Tree Data Structures and Balancing.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Graph Data Structures and Algorithms.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/📖 IS2202 Advanced Data Structures and Algorithms.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Intents and Broadcast Receivers.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Sensors in Android.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Persistence (Data Storage).md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Android Application Project Elements.md",
+    "Academic Year 01/Semester - 01/IS1201 - Programming and Problem Solving/👉🏻 IS1201 - Programming and Problem Soving.md",
+    "Academic Year 01/Semester - 01/IS1201 - Programming and Problem Solving/Overview and History of Programming Languages.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Modern UI with Jetpack Compose.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Relations and Functions.md",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Set Theory.md",
     "README.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Memory Management and Advanced Scoping.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Specialized Class Members and Keywords.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Polymorphism (Overloading Functions & Operators).md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/The Object Life-cycle (Constructors & Destructors).md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/C++ Language Fundamentals & Data Types.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Building Classes and Objects.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Modern UI with Jetpack Compose.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Activity Life Cycle.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Android Application Project Elements.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Kotlin Programming.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Introduction to Mobile Computing.md",
-    "Academic Year 02/Semester 01/IS2206 - Business Process Management/📖 IS2206 - Business Process Management.md",
-    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Introduction to Business Processes.md",
-    "Academic Year 02/Semester 01/IS2206 - Business Process Management/BPM Suites (BPMS).md",
-    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Business Process Modeling (BPMN).md",
-    "Academic Year 02/Semester 01/IS2206 - Business Process Management/The BPM Life Cycle.md",
-    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/👉🏻 IS1208 - Systems Analysis and Design (Lesson Plan).md",
-    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Introduction to System & Designs.md",
-    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Process Identification & Architecture.md",
     "Excalidraw",
     "Academic Year 02/Semester 01/IS2206 - Business Process Management",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development",
@@ -278,7 +279,6 @@
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts/mindmap.html",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing",
-    "Academic Year 01/Semester - 01/IS1205 - Introduction to Management/Lecture Notes/2025 - Motivation-Leadership new.pdf",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/Activity Diagram/final-state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/Iinitial -state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/final-state.jpg",

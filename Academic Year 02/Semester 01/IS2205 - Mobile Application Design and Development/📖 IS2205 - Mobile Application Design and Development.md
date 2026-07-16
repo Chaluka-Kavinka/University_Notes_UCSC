@@ -18,6 +18,10 @@ By the end of these lessons, you should be able to:
 - **Manage App States:** Explain the **Activity Life-cycle**, including how to manage state transitions and navigate the **Back Stack** and tasks.
 - **Design User Interfaces:** Transition from traditional **XML markup** to modern **declarative UI** using Jetpack Compose.
 - **Utilize Development Tools:** Use Android Studio, manage project structures, and handle build automation with **Gradle**.
+- **Utilize Intents:** Master the use of **Explicit, Implicit, and Pending Intents** to facilitate communication between your app's components and other applications.
+- **Implement Broadcast Receivers:** Understand the **publish-subscribe design** to receive and respond to system-wide or custom broadcast events.
+- **Integrate Hardware Sensors:** Effectively use the **Android sensor framework** to access **Motion, Environmental, and Position sensors**.
+- **Manage Data Persistence:** Choose and implement appropriate storage methods, including **App-specific storage**, **Shared storage**, and structured **Databases** using the **Room persistence library**.
 ---
 # Topic Covered
 
@@ -48,3 +52,21 @@ By the end of these lessons, you should be able to:
 	- **Structural Composables:** Using **Column, Row, and Box** instead of traditional View-groups.
 	- **Styling:** Applying the **Decorator Pattern** using **Modifiers** to handle padding, size, and background.
 	- **State Hoisting:** Decoupling UI elements from control logic by exposing events via Kotlin lambdas.
+
+6. [[Intents and Broadcast Receivers]]
+	- **Intent Fundamentals:** Understanding Intents as "messengers" for requesting actions from different components.
+	- **Intent Types:** Differentiating between **Explicit** (defined target), **Implicit** (action-based), and **Pending** (future-use) intents.
+	- **Intent Components:** Working with **Actions, Categories, Data (MIME types), Flags, and Extras**.
+	- **Broadcast Receivers:** Learning the **publish-subscribe** model for events like bootup or battery state changes.
+
+7. [[Sensors in Android]]
+	- **Sensor Categories:** Exploring **Motion sensors** (accelerometers, gyroscopes), **Environmental sensors** (temperature, humidity), and **Position sensors** (magnetometers, proximity).
+	- **Sensor Framework:** Using the `SensorManager` to enumerate and acquire sensor objects.
+	- **Implementation:** Handling the **Sensor Coordinate System** and using **Listeners** (`SensorEventListener`) to respond to data changes.
+	- **Efficiency:** Properly **registering and unregistering listeners** in activity lifecycle methods to save power.
+
+8. [[Persistence (Data Storage)]]
+	- **Storage Strategies:** Choosing between **App-specific storage** (private), **Shared storage** (media/documents), **Preferences**, and **Databases**.
+	- **Shared Storage APIs:** Utilizing the `MediaStore` API and **Storage Access Framework**.
+	- **SQL and SQLite:** Basic database concepts like **Tables, Rows, and Columns**, and using **SQL** for CRUD (Create, Read, Update, Delete) operations.
+	- **Modern Persistence with Room:** Using the **Room library** to replace boilerplate code with **Entities**, **DAOs (Data Access Objects)**, and **Databases**.
