@@ -11,10 +11,10 @@
             "id": "37bc91f1d4feaa7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -243,12 +243,12 @@
   },
   "active": "37bc91f1d4feaa7e",
   "lastOpenFiles": [
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Kotlin Programming.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Searching Complexity.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Tree Data Structures and Balancing.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Searching Complexity.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Graph Data Structures and Algorithms.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/📖 IS2202 Advanced Data Structures and Algorithms.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
+    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Kotlin Programming.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Intents and Broadcast Receivers.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Sensors in Android.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Persistence (Data Storage).md",
