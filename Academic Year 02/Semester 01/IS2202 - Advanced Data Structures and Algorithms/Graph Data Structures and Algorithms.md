@@ -1,5 +1,3 @@
-> Next Topic : [[Tree Data Structures and Balancing]]
----
 # 1. Fundamental Concepts
 
 - **Definition:** A graph $G=(V,E)$ consists of a set of vertices $V$ (also called nodes) and a set of edges $E$, which represent binary relations between those vertices.

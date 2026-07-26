@@ -1,5 +1,3 @@
->Next Topic : [[Discrete Random Variables]]
-
 >[!tip]
 >**Independent events** occur when the happening of one event does not influence the probability of the other happening in any way. In other words, if two events are independent, the information that one has occurred leaves the probability of the other unchanged.
 

@@ -1,5 +1,3 @@
->Next Topic : [[Persistence (Data Storage)]]
----
 # 1. Categories of Android Sensors
 
 Android sensors are used to add capabilities to mobile computers that desktops or servers typically lack. They are broadly categorized into three groups:

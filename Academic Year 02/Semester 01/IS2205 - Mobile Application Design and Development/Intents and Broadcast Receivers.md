@@ -1,5 +1,3 @@
->Next Topic : [[Sensors in Android]]
----
 # 1. What is an Intent?
 
 An **Intent** is defined as a **"messenger"** that facilitates requesting an action from a different component at runtime. It is primarily used to:

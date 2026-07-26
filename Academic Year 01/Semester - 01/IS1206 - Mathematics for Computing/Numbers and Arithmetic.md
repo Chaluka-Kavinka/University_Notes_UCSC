@@ -1,5 +1,3 @@
->Next Topic : [[Set Theory]]
-
 This module establishes the mathematical foundation for computing by exploring number systems, their properties, and fundamental operations.
 
 ---

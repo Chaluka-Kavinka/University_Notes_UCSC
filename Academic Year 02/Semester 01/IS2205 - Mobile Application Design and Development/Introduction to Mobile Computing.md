@@ -1,5 +1,3 @@
->Next Topic : [[Kotlin Programming]]
-
 # What is Mobile Computing?
 
 - **Definition:** A technology that facilitates the **processing and transmission of data** via a computer or wireless-enabled device without being stationed or connected to a fixed physical link.

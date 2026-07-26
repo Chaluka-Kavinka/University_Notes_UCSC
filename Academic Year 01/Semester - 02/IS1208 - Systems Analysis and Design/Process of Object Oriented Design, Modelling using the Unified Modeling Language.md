@@ -1,5 +1,3 @@
->Next Topic : [[Object re-usability and Design Patterns]]
-
 >[!tip] Introduction
 >The process of **Object-Oriented Design (OOD)** shifts the focus from understanding a business problem to defining the technical and **implementation concerns** of the system—essentially moving from "what" the system must do to "**how to do it**". This process results in a detailed **design specification** that serves as a blueprint for the final computer-based solution.
 

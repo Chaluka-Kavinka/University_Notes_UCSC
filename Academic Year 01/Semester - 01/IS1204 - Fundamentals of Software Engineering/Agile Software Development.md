@@ -1,5 +1,3 @@
->Next Topic : [[Requirements Engineering]]
-
 # 1 What is Agile?
 
 Agile is a software development approach focused on **flexibility, collaboration, customer feedback, and rapid delivery**. Unlike traditional methods that deliver the entire product at the end, Agile builds software **incrementally and iteratively** from the start. It is highly popular in dynamic environments where requirements are fast-changing.

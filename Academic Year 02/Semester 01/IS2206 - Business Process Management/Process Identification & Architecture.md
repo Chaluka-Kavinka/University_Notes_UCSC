@@ -1,5 +1,3 @@
->Next Topic : [[The BPM Life Cycle]]
-
 # What is Process Identification?
 
 **Process Identification** is a systematic set of activities aimed at defining an organization's business processes and establishing clear criteria to prioritize them.

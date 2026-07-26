@@ -1,5 +1,3 @@
->Next Topic : [[Discrete Probability Distribution]]
-
 >[!tip]
 >**Discrete Random Variables**, which are tools used to summarize the numerical results of random experiments where the specific values cannot be predicted with certainty.
 

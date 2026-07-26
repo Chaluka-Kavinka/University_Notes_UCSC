@@ -1,5 +1,3 @@
->Next Topic : [[Techniques of Counting]]
-
 This topic covers the rules for manipulating powers, roots, and their inverse operations, which are essential for understanding algorithmic complexity and data scaling in computing.
 
 ---

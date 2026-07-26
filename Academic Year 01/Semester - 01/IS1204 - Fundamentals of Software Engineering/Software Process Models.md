@@ -1,5 +1,3 @@
->Next Topic : [[Agile Software Development]]
-
 # 1 What is a Software Process?
 
 A software process is a set of **ordered tasks** involving activities, constraints, and resources that produce a software system. It provides consistency and structure to development. Because it describes the life of a product from conception through delivery and maintenance, it is often referred to as a **Software Development Life Cycle (SDLC)**.

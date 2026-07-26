@@ -1,5 +1,3 @@
->Next Topic : [[Structured Query Language (SQL)]]
-
 >[!tip]
 >The primary objective of **normalization** is to create an **accurate representation of data**, its relationships, and constraints. It aims to produce a set of relations with desirable properties by **minimizing data redundancy** and eliminating **update anomalies**. 
 >

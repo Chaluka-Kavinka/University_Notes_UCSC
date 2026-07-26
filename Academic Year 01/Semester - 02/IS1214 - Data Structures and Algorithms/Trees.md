@@ -1,5 +1,3 @@
->Next Topic: [[Sorting Methods]]
-
 >[!info] Introduction
 >A **Tree** is a non-linear data structure used to represent hierarchical relationships and organize data objects based on keys. Unlike linear structures, trees allow for the implementation of **faster algorithms**, specifically for searching and sorting.
 

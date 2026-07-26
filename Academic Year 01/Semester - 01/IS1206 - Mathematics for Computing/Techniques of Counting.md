@@ -1,5 +1,3 @@
->Next Topic : [[Linear Algebra - Vectors and Matrices]]
-
 we explore the branch of mathematics concerned with counting, arranging, and selecting objects. This field forms the foundation of discrete mathematics and is essential for computer science, particularly in algorithm analysis, data encryption, and optimization.
 
 ---

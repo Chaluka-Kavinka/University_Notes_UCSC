@@ -1,5 +1,3 @@
->Next Topic : [[Motivation and Leadership]]
-
 In the transition toward a **Knowledge Society**, where knowledge—rather than capital or labor—is the basic economic resource, the importance of ethics in management becomes paramount.
 
 # 1. Defining Ethics

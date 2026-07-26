@@ -1,5 +1,3 @@
->Next Topic : [[Software Process Models]]
-
 # 1 Defining Software
 
 In software engineering, software is much more than just the executable code. It is defined as a combination of three essential components:

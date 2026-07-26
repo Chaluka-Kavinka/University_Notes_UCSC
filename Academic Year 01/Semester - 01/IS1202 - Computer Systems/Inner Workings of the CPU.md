@@ -1,5 +1,3 @@
->Next Topic : [[Memory Components and Organization]]
-
 > [!Info]
 > Topic 03, **Inner Workings of the CPU**, explores the architecture, components, and operational cycles of the Central Processing Unit, which is considered the "brain" of the computer.
 

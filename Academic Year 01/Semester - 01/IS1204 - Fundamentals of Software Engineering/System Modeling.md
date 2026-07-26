@@ -1,5 +1,3 @@
->Next Topic : [[Architectural Design]]
-
 # 1 What is System Modeling?
 
 System modeling is the process of developing abstract models of a system, with each model presenting a different view or perspective of that system. It typically uses graphical notations, most commonly the **Unified Modeling Language (UML)**.

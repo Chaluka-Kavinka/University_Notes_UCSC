@@ -1,5 +1,3 @@
->Next Topic : [[Inner Workings of the CPU]]
-
 > [!Info]
 > Topic 02, **Basic Logic Circuit Design**, provides the mathematical and physical foundations for building computer hardware, moving from abstract logic to actual circuit components.
 

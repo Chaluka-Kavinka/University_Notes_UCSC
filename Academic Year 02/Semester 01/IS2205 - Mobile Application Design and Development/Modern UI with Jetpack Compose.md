@@ -1,4 +1,3 @@
->Next Topic : [[Intents and Broadcast Receivers]]
 # What is Jetpack Compose?
 
 - **Definition:** A modern UI library for Android development that uses **composable functions** as its basic building blocks.

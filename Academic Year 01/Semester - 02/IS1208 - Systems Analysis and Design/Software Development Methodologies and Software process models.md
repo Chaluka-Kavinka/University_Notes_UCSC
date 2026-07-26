@@ -1,5 +1,3 @@
->Next Topic : [[Systems Analysis and Fact Finding techniques]]
-
 > [!attention] Objectives
 > This topic covers the **three major components of system development**:
 > 1. **Methodology:** A formal and precise process defining activities, methods, best practices, deliverables, and automated tools used to develop or improve software.

@@ -1,5 +1,3 @@
->Next Topic : [[Stacks]]
-
 A **Data Structure** is an efficient way of organizing and storing data in a computer so it can be used effectively. They are the foundation of almost every aspect of Computer Science, from Operating Systems to Artificial Intelligence.
 
 # 1. Categories of Data Structures

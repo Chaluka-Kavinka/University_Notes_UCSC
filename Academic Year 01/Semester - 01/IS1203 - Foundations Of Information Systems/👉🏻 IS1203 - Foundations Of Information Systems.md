@@ -1,11 +1,8 @@
->Next Lesson : [[👉🏻 IS1204 - Fundamentals of Software Engineering]]
-
-**Course Code** : IS1203
-**Course Name** : Foundations Of Information Systems
-**Lecture** : Dr. Thushani Weerasinghe (taw@ucsc.cmb.ac.lk)
+- **Course Code** : IS1203
+- **Course Name** : Foundations Of Information Systems
+- **Lecture** : Dr. Thushani Weerasinghe (taw@ucsc.cmb.ac.lk)
 
 #Lesson-Plan 
-
 
 > [!TIP] Objectives
 > The primary goal is to provide participants with knowledge on **basic concepts of information systems, components, functions, and roles in organizations**, as well as the major concerns for acquiring IS and the potential issues they can create.

@@ -1,5 +1,3 @@
->Next Topic : [[Android Application Project Elements]]
-
 # What is Kotlin?
 
 - **Definition:** Kotlin is a **modern, statically-typed** programming language developed by **JetBrains** (the creators of IntelliJ IDEA) around 2011-2012.

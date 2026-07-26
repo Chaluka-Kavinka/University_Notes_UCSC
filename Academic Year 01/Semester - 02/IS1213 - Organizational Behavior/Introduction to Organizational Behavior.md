@@ -1,5 +1,3 @@
->Next Topic :  [[Diversity in Organizations]]
-
  >[!info]
  >**Organizational Behavior (OB)** is a multifaceted field that serves as the foundation for understanding human dynamics in the workplace.
 

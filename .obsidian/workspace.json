@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ff69357a8d167422",
+        "id": "6623a5bed323ac85",
         "type": "tabs",
         "children": [
           {
-            "id": "37bc91f1d4feaa7e",
+            "id": "e7bb9d527bc6a6f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ],
@@ -38,7 +52,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -84,7 +98,7 @@
       {
         "id": "456e5f707034a639",
         "type": "tabs",
-        "dimension": 60.782442748091604,
+        "dimension": 50,
         "children": [
           {
             "id": "09f8df5c3302a825",
@@ -153,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 👉🏻 IS1206 - Mathematics for Computing"
+              "title": "Outline of README"
             }
           },
           {
@@ -178,9 +192,9 @@
         "currentTab": 4
       },
       {
-        "id": "5ca9c691d47aa69a",
+        "id": "492cb0a50a851d3c",
         "type": "tabs",
-        "dimension": 39.217557251908396,
+        "dimension": 50,
         "children": [
           {
             "id": "c8b0b71c0703baa0",
@@ -188,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +211,7 @@
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -211,20 +225,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6024013357398852,
+                  "scale": 0.4016008904932567,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 👉🏻 IS1206 - Mathematics for Computing"
+              "title": "Graph of README"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 425.5,
-    "collapsed": true
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,35 +254,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37bc91f1d4feaa7e",
+  "active": "e7bb9d527bc6a6f5",
   "lastOpenFiles": [
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Kotlin Programming.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Searching Complexity.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Tree Data Structures and Balancing.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Graph Data Structures and Algorithms.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/📖 IS2202 Advanced Data Structures and Algorithms.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Intents and Broadcast Receivers.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Sensors in Android.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Persistence (Data Storage).md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Android Application Project Elements.md",
-    "Academic Year 01/Semester - 01/IS1201 - Programming and Problem Solving/👉🏻 IS1201 - Programming and Problem Soving.md",
-    "Academic Year 01/Semester - 01/IS1201 - Programming and Problem Solving/Overview and History of Programming Languages.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Modern UI with Jetpack Compose.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/BPM Suites (BPMS).md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/The BPM Life Cycle.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Introduction to Business Processes.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Process Identification & Architecture.md",
+    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Object Interaction and Sequence Modeling.md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/👉🏻 IS1214 - Data Structures and Algorithms (Lesson Plan).md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Introduction & Arrays.md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Stacks.md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Queues.md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Link Lists & Double Link Lists.md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Trees.md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Sorting Methods.md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Complexity and Analysis of Algorithms.md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Graphs.md",
+    "Academic Year 01/Semester - 02/IS1213 - Organizational Behavior/👉🏻 IS1213 - Organizational Behavior (Lesson Plan).md",
+    "Academic Year 01/Semester - 02/IS1213 - Organizational Behavior/Introduction to Organizational Behavior.md",
+    "Academic Year 01/Semester - 02/IS1213 - Organizational Behavior/Diversity in Organizations.md",
+    "Academic Year 01/Semester - 02/IS1213 - Organizational Behavior/Personality and Values.md",
+    "Academic Year 01/Semester - 02/IS1213 - Organizational Behavior/Perception & Decision Making.md",
+    "Academic Year 01/Semester - 02/IS1213 - Organizational Behavior/Motivation.md",
+    "Academic Year 01/Semester - 02/IS1213 - Organizational Behavior/Emotions & Moods.md",
+    "Academic Year 01/Semester - 02/IS1213 - Organizational Behavior/Groups & Teams.md",
+    "Academic Year 01/Semester - 02/IS1213 - Organizational Behavior/Communication.md",
+    "Academic Year 01/Semester - 02/IS1212 - Fundamentals of Probability and Statistics/👉🏻 IS1212 - Fundamentals of Probability and Statistics (Lesson Plan).md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Relations and Functions.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Set Theory.md",
-    "README.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Memory Management and Advanced Scoping.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Specialized Class Members and Keywords.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Polymorphism (Overloading Functions & Operators).md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/The Object Life-cycle (Constructors & Destructors).md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/C++ Language Fundamentals & Data Types.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Building Classes and Objects.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Activity Life Cycle.md",
     "Excalidraw",
     "Academic Year 02/Semester 01/IS2206 - Business Process Management",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development",

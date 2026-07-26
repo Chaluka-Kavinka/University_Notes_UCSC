@@ -1,5 +1,3 @@
->Next Topic : [[Process Identification & Architecture]]
-
 The **BPM Life Cycle** is a continuous, circular framework used to manage and improve business processes through six distinct phases. Each phase produces specific outputs that feed into the next, ensuring that organizational goals remain aligned with operational execution.
 # Phase 01: Process Identification
 

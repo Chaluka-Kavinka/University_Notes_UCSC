@@ -1,5 +1,3 @@
->Next Topic : [[Macros and the Preprocessor]]
-
 > [!Info]
 > Topic 03, **Control Structures**, focuses on how to manage the flow of execution in a C program through conditions and loops. This topic is typically covered over two weeks.
 

@@ -1,5 +1,3 @@
->Next Topic : [[Business Process Modeling (BPMN)]]
-
 # What is Business Process Modeling?
 
 It is the **graphical representation** of a company’s workflows, used to identify potential improvements. It primarily focuses on two states:

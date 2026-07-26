@@ -1,5 +1,3 @@
->Next Topic : [[Programming Fundamentals]]
-
 > [!Info]
 > Topic 01 of the course provides an **Overview and History of Programming Languages**, serving as an introduction to how we communicate with computers and the fundamental logic behind software design.
 

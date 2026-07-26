@@ -1,5 +1,3 @@
->Next Topic : [[Emotions & Moods]]
-
 >[!info]
 >**Motivation**, is a cornerstone of Organizational Behavior, representing the "driving force" behind employee performance and productivity. Understanding how to motivate employees is essential for managers who wish to achieve organizational goals.
 

@@ -1,5 +1,3 @@
->Next Topic : [[Activity Life Cycle]]
-
 # Essential Development Tools
 
 To build and test Android applications, you primarily use:

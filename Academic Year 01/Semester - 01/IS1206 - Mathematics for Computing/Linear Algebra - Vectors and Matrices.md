@@ -1,5 +1,3 @@
->Next Topic : [[Relations and Functions]]
-
 This module, which spans approximately 8 hours of lecture time, focuses on the mathematical tools used for data representation, computer graphics transformations, and solving complex systems of equations.
 
 ---

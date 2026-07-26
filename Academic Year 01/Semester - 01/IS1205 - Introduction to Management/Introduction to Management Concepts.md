@@ -1,5 +1,3 @@
->Next Topic : [[Business Organization & Environment]]
-
 # 1. Definition of Management
 
 **Management** is the process of **planning, organizing, leading, and controlling** the work of organization members. The core purpose of this process is to **optimize the use of available organizational resources** to reach stated goals in an **efficient** and **effective** manner.

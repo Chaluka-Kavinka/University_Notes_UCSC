@@ -1,5 +1,3 @@
->Next Topic : [[Complexity and Analysis of Algorithms]]
-
 Let's dive into the detailed breakdown of **Sorting Methods**, which is divided into five main parts. Sorting is defined as the process of arranging items in a specific order (ascending or descending) using a comparison operator.
 
 # Part A: Basic Sorting Techniques

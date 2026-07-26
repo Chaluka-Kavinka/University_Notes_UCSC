@@ -1,5 +1,3 @@
->Next Topic : [[Enhanced Entity Relationship Model]]
-
 >[!tip]
 >This topic helps to understand the **database design process**, specifically how to analyze requirements and transform them into a **conceptual schema** using **Entity-Relationship (ER)** and **Enhanced Entity-Relationship (EER)** modeling.
 >

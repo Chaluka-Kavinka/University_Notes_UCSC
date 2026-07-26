@@ -4,12 +4,10 @@
 
 #Lesson-Plan 
 
-
 > [!important] Goal
 > The primary goal of this module is to transition your programming approach from a procedural mindset to an **Object-Oriented Programming (OOP) paradigm**, which organizes software design around real-world objects rather than just functions and logic.
 
 ---
-
 # The specific objectives of the module include:
 
 - **Understanding Software Complexity:** Learning how to handle larger, more complex programs where traditional procedural methods often lead to skyrocketing costs and difficult maintenance.
@@ -27,44 +25,63 @@ Overall, the module aims to provide you with a robust framework for designing so
 
 ---
 # Topic Covered
+
 1. [[Foundations of the OOP Paradigm]]
-	This introductory section explores why software development shifted from procedural steps to object-oriented design.
-	- **Procedural vs. OOP:** Understanding the move from a "sequence of instructions" to "real-world entities" (objects) that combine attributes and behaviors.
-	- **The Four Pillars:** Mastery of **Inheritance, Abstraction, Encapsulation, and Polymorphism**.
-	- **C++ Origins:** The history of C++ as an extension of C by Bjarne Stroustrup, incorporating advanced features like classes and the increment operator (++) in its naming.
+	- **Procedural vs. Object-Oriented:** Understanding the shift from a "sequence of instructions" to organizing design around real-world objects.
+	- **Limitations of Procedural Programming:** Unrestricted access to global data and poor modeling of complex real-world problems.
+	- **The Four Pillars of OOP:** Definitions and benefits of **Inheritance, Abstraction, Encapsulation (Data Hiding), and Polymorphism**.
+	- **C++ History:** Origins as "C with Classes" and the significance of the "++" operator.
 
-2. [[C++ Language Fundamentals & Data Types]]
-	Before diving into complex objects, the module covers how data is structured in memory.
-	- **Data Type Categories:** Distinguishing between **Primary** (int, char, bool), **Derived** (Functions, Arrays, Pointers, References), and **User-Defined** (Classes, Structures) types.
-	- **Pointers and References:** Understanding memory addresses through pointer syntax (`*`) and alternative naming via references (`&`).
-	- **Evolution of Structures:** How C++ "structs" evolved into classes, including the ability to hold both data and member functions.
+2. [[C++ Language Fundamentals & Data Structures]]
+	- **Data Type Categories:** Distinguishing between **Primary** (int, char), **Derived** (Arrays, Pointers, References), and **User-Defined** (Classes, Structures).
+	- **Pointers and Memory:** Managing addresses using the address-of (`&`) and dereferencing (`*`) operators.
+	- **Structures (struct):** Evolution of structures in C++ to include member functions and the distinction between `struct` (default public) and `class` (default private).
 
-3. [[Building Classes and Objects]]
-	This topic focuses on the syntax and mechanics of creating the "blueprints" for your software.
-	- **Class Anatomy:** Defining **Data Members** (attributes) and **Member Functions** (behaviors).
-	- **Access Specifiers:** Implementing security through **public** (accessible outside), **private** (internal only), and **protected** keywords.
-	- **Member Access:** Using the **dot operator (.)** for direct access and the **arrow operator (->)** when referring to a class via a pointer.
+3. [[Anatomy of Classes and Objects]]
+	*   **Class Mechanics:** Defining **Data Members** (attributes) and **Member Functions** (behaviors).
+	*   **Access Specifiers:** Implementing security via **public, private, and protected** keywords.
+	*   **Member Access:** Using the **dot operator (.)** for objects and the **arrow operator (->)** for object pointers.
+	*   **Defining Functions:** Comparing **inline** functions (inside the class) versus functions defined **outside** using the Scope Resolution Operator.
+	
+4. [[Scope, Namespaces, and Dynamic Memory]]
+	*   **Variable Scope:** Differentiating between **local** and **global** variables and managing precedence.
+	*   **Namespaces:** Using identifiers to prevent naming conflicts in libraries.
+	*   **The Scope Resolution Operator (::):** Its many uses, from accessing global variables to defining functions outside classes.
+	*   **Dynamic Memory Allocation:** Explicitly allocating/deallocating memory at runtime using **`new`** and **`delete`**.
 
-4. [[The Object Life-cycle (Constructors & Destructors)]]
-	One of the most critical topics, focusing on how objects are "born," managed, and "destroyed" to prevent memory leaks.
-	- **Constructors:** Special functions (Default, Parameterized, and Copy) that ensure an object starts in a "valid, predictable state".
-	- **Advanced Initialization:** Using **Initializer Lists** for efficiency and **Constructor Overloading** to provide multiple ways to create an object.
-	- **The Copy Constructor:** Learning the difference between a compiler-generated **bit-wise copy** and a user-defined copy needed for objects with pointers.
-	- **Destructors:** The tilde (`~`) syntax used to release resources when an object ceases to exist.
-5. [[Memory Management and Advanced Scoping]]
-	Mastering how the computer allocates resources during a program's execution.
-	- **Scope & Namespaces:** Using the **Scope Resolution Operator (::)** to define functions outside classes and manage global vs. local variable conflicts.
-	- **Dynamic Memory:** Utilizing **new** and **delete** keywords to allocate storage at run-time rather than compile-time.
-	- **Nested & Member Objects:** Creating complex classes that contain other classes as members (e.g., a "Cylinder" class containing a "Circle" object).
+5. [[The Object Life-cycle (Constructors & Destructors)]]
+	*   **Constructors:** Special functions for initialization, including **Default, Parameterized, and Copy Constructors**.
+	*   **Initialization Lists:** An efficient syntax for specifying initial values for data members.
+	*   **Destructors:** The tilde (`~`) syntax and their role in deallocating resources.
+	*   **Order of Execution:** The sequence of calls for global, local, and nested objects.
 
 6. [[Specialized Class Members and Keywords]]
-	Refining class behavior using advanced C++ keywords.
-	- **Static Members:** Variables and functions that are shared by the entire class rather than owned by a specific object.
-	- **The** **const** **Keyword:** Protecting data by creating constant variables, constant pointers, and **constant member functions** that cannot modify an object’s data.
-	- **The** **this** **Pointer:** Understanding the implicit "hidden" pointer that points to the object currently invoking a method.
+	*   **Static Members:** Data and functions shared by the entire class rather than a specific object.
+	*   **The `const` Keyword:** Protecting data via constant variables, constant pointers, and **constant member functions**.
+	*   **The `this` Pointer:** An implicit pointer pointing to the object currently invoking a method.
 
-7. [[Polymorphism (Overloading Functions & Operators)]]
-	The final section covers how to give multiple meanings to functions and symbols.
-	- **Function Overloading:** Defining multiple functions with the same name but different parameter lists, allowing the compiler to choose the "best match".
-	- **Operator Overloading:** Using the **operator** keyword to redefine how standard symbols (like `+`, `-`, or `++`) interact with your custom class objects.
-	- **Unary vs. Binary Overloading:** Learning to overload operators that act on a single operand (like prefix/postfix `++`) versus those acting on two (like `+`).
+7. [[Function and Operator Overloading]]
+	*   **Function Overloading:** Multiple functions with the same name but different signatures (parameters).
+	*   **Operator Overloading:** Redefining how symbols like `+`, `-`, or `++` interact with classes.
+	*   **Unary vs. Binary Overloading:** Handling operators that act on one operand (like prefix/postfix `--`) versus two.
+	*   **Non-Overloadable Operators:** Understanding why `.`, `::`, `?:`, and `sizeof` cannot be redefined.
+
+8. [[Friend Functions and Data Conversion]]
+	*   **Friend Functions:** External functions granted access to a class's private and protected members.
+	*   **Type Conversion:** Handling assignments between basic types and classes, as well as between different class types.
+
+9. [[Inheritance Fundamentals and Types]]
+	*   **Terminology:** Concepts of **Super/Base** classes versus **Sub/Derived** classes.
+	*   **Inheritance Modes:** How **public, protected, and private inheritance** affect member visibility in derived classes.
+	*   **The Five Types of Inheritance:** Single, Multiple, Multilevel, Hierarchical, and Hybrid.
+
+10. [[The Diamond Problem and Virtual Inheritance]]
+	*   **The Ambiguity Issue:** When a class inherits two copies of a grandparent class.
+	*   **The Solution:** Implementing **Virtual Base Classes** and using the `virtual` keyword to ensure only one copy exists.
+
+11. [[Runtime Polymorphism and Abstract Classes]]
+	*   **Function Overriding:** Redefining base class functions in derived classes.
+	*   **The `override` Keyword:** A C++11 feature to prevent mistakes during overriding.
+	*   **Virtual Functions:** Achieving **late binding** (runtime decision-making).
+	*   **Pure Virtual Functions and Abstract Classes:** Creating "blueprint" classes that cannot be instantiated.
+	*   **Method Hiding:** Understanding how derived methods can accidentally hide base class functions.

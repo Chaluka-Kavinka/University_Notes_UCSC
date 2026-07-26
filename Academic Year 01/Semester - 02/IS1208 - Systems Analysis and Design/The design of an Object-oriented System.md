@@ -1,5 +1,3 @@
->Next Topic : [[Process of Object Oriented Design, Modelling using the Unified Modeling Language]]
-
 >[!tip] Introduction
 >Object-oriented (OO) design shifts the focus from "what" a system does to "how" it will technically work. It translates the functional requirements discovered during analysis into a detailed technical blueprint.
 

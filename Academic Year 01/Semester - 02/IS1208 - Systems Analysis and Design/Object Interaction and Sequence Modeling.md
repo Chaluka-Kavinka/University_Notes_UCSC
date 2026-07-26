@@ -1,5 +1,3 @@
->Next Topic : [[OOAD and Agile (CRC Cards)]]
-
 >[!tip] Introduction
 >**Object Interaction and Sequence Modeling** focuses on the **dynamic behavior** of a system by illustrating how objects communicate to fulfill a specific business task or scenario.
 

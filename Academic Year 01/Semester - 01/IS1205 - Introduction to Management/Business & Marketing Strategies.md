@@ -1,5 +1,3 @@
->Next Topic : [[Ethics and Professional Issues]]
-
 # 1. Definition of Marketing
 
 Marketing is defined as the management process responsible for **identifying, anticipating, and satisfying customer wants at a profit**. Marketing Management involves planning and executing the conception, pricing, promotion, and distribution of ideas, goods, and services to create exchanges that satisfy both individual and organizational goals.

@@ -1,5 +1,3 @@
->Next Topic : [[Information Systems in Organizations]]
-
 # 1. Data vs. Information
 
 Understanding the distinction between these two concepts is fundamental to information systems.

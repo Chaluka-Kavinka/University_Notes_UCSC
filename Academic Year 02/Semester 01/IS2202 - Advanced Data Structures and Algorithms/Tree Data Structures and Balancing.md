@@ -1,5 +1,3 @@
->Next Topic : [[Hashing and Searching Complexity]]
----
 # 1. Fundamental Concepts
 
 - **Definition:** A tree is a **non-linear**, abstract data type with a hierarchy-based structure used to represent data in a **parent-child relationship**.

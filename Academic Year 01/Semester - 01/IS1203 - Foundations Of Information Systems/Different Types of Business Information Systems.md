@@ -1,5 +1,3 @@
->Next Topic : [[Acquiring IT or IS Infrastructure Capabilities and Performance Evaluation]]
-
 In an organization, information systems are typically categorized from two perspectives: the **functional perspective** (what the system does) and the **constituency perspective** (who the system serves).
 
 # 1. The Functional Perspective

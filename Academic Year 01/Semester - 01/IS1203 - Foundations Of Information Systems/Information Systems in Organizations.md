@@ -1,5 +1,3 @@
->Next Topic : [[Different Types of Business Information Systems]]
-
 # 1. Defining the Organization
 
 - **Basic Definition:** An organization is a formal collection of resources and people structured and managed to accomplish a set of goals.

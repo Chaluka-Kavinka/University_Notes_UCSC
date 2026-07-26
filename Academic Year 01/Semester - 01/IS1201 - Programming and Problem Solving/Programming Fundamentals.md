@@ -1,5 +1,3 @@
->Next Topic : [[Control Structures]]
-
 > [!Info]
 > Topic 02, **Programming Fundamentals**, is a core component of the course scheduled to be covered over three weeks. It transitions from algorithmic logic into the actual syntax and building blocks of the C programming language.
 > 

@@ -1,5 +1,3 @@
->Next Topic : [[Social and Ethical Issues Related to Information Systems]]
-
 # 1. Defining IT Infrastructure
 
 IT Infrastructure is the set of hardware and software required to operate an entire enterprise. It is categorized into two main types:

@@ -1,5 +1,3 @@
->Next Topic : [[Project Quality Management]]
-
 >[!info] Introduction
 >Project Time Management (also referred to as **Project Schedule Management**) focuses on the processes required to ensure the timely completion of a project. Managers often cite delivering projects on time as one of their biggest challenges because **time is the least flexible constraint**—it passes regardless of what happens on the project.
 

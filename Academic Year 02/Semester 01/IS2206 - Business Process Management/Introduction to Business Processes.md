@@ -1,5 +1,3 @@
->Next Topic : [[The BPM Life Cycle]]
-
 # Defining a Business Process
 
 A **business process** is a collection of related events, activities, and decisions that involve a number of actors and resources. These elements collectively lead to an **outcome** that provides **value** to an organization or its customers.

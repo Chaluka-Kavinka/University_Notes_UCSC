@@ -1,5 +1,3 @@
->Next Course : [[👉🏻 IS1214 - Data Structures and Algorithms (Lesson Plan)]]
-
 - **Course Code** : IS 1213
 - **Course Name** : Organizational Behavior
 - **Lecture** : Samantha Mathara Arachchi

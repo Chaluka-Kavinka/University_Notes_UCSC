@@ -1,5 +1,3 @@
->Next Topic : [[Conditional Probability]]
-
 **Introduction to Probability** is the study of experiments where the outcome is not known in advance or cannot be predicted with absolute certainty. It provides a way to quantify "how likely" it is that a specific event will occur.
 
 ---

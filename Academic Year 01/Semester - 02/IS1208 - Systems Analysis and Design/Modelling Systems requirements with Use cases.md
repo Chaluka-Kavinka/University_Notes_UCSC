@@ -1,5 +1,3 @@
->Next Topic : [[The design of an Object-oriented System]]
-
 >[!important] Introduction
 >**Use-case modeling** is a user-centered process used to model a system’s functions in terms of **business events**, the actors who initiate them, and how the system responds to those events. Originally conceived by Dr. Ivar Jacobson in 1986, it has become a best practice for defining and documenting the **functional requirements** of an information system.
 

@@ -1,11 +1,8 @@
-> Next Lesson : [[👉🏻 IS1203 - Foundations Of Information Systems]]
-
-**Course Code** : IS1202
-**Course Name** : Computer Systems
-**Lecture** : Dr. Ajantha Atukorale, Dr. Kasun Gunawardana
+- **Course Code** : IS1202
+- **Course Name** : Computer Systems
+- **Lecture** : Dr. Ajantha Atukorale , Dr. Kasun Gunawardana
 
 #Lesson-Plan 
-
 
 > [!Tip] Objectives
 > The primary objective of the **IS 1202 – Computer Systems** course is to help you obtain an **overall knowledge of the integral parts of a computer system** and provide the necessary skills to **analyze its performance**. Additionally, this course is designed to lay a solid foundation for more advanced studies in **computer architecture** and **operating systems**.
