@@ -1,4 +1,4 @@
 # FILES TO BE IGNORED
 
-.obsidian/*.json
-.trash/*
+*.json
+/.obsidian
