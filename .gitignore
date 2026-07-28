@@ -1,5 +1,6 @@
-# FILES TO BE IGNORED
+# These files need not be in github 
 
-*.json
+/.trash
 /.obsidian
-.obsidian/workspace.json
+.gitignore
+.gitattributes
