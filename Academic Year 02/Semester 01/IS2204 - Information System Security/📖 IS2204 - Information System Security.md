@@ -49,7 +49,16 @@ A deep dive into how security is applied to electronic money and distributed led
 
 6. [[Malicious Code and Defenses]]
 
-The final area covers the threats that compromise systems and the tools used to stop them:
+This area covers the threats that compromise systems and the tools used to stop them:
 
 - **Malware Classification:** Categorizing malicious software by how it spreads (**Propagation Mechanism** like viruses and worms) and what it does (**Payload** like ransomware, spyware, or rootkits).
 - **Defensive Technologies:** The use of **Firewalls** to filter perimeter traffic and **Intrusion Detection Systems (IDS)** or **Intrusion Prevention Systems (IPS)** to monitor and respond to malicious behavior inside the network.
+
+7. [[Authentication Protocols]]
+
+- **Foundations:** Proving knowledge vs. proving possession.
+- **Direct Presentation:** **PAP** (Password Authentication Protocol), which is insecure as it sends credentials in plain text.
+- **Challenge-Response:** The verifier issues a nonce, and the secret itself is never transmitted.
+- **Zero-Knowledge Proofs:** Methods to prove you know a secret without revealing it (e.g., the "Cave" analogy).
+- **Modern Standards:** The shift from **SAML** (legacy/enterprise) to **OpenID Connect** (modern/social login).
+- **Passwordless Future:** The use of **FIDO2, WebAuthn, and Passkeys** to replace typed secrets.
