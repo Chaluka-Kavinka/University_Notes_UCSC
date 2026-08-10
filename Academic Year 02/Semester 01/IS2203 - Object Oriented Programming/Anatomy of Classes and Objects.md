@@ -19,15 +19,15 @@ A class combines data and functions into a single unit.
 Access specifiers define how class members can be accessed, which is the foundation of **Data Hiding** (concealing data within a class to prevent mistaken access from outside).
 
 - **private** **(Default):** Members are only accessible from within the same class. The default access model for C++ classes is private.
-- **public****:** Members are accessible from any non-member function outside the class.
-- **protected****:** Members are inaccessible from the outside but can be accessed by **derived (inherited) classes**.
+- **public**: Members are accessible from any non-member function outside the class.
+- **protected**: Members are inaccessible from the outside but can be accessed by **derived (inherited) classes**.
 
 # 4. Member Access Mechanics
 
 To interact with class members from code outside the class definition, specific operators are required:
 
-- **Dot Operator (****.****):** Used when working directly with an object name (e.g., `objectName.memberName`).
-- **Arrow Operator (****->****):** Used to refer to a member via a **pointer to an object**.
+- **Dot Operator** (.): Used when working directly with an object name (e.g., `objectName.memberName`).
+- **Arrow Operator** (->): Used to refer to a member via a **pointer to an object**.
 
 # 5. Defining Member Functions
 
