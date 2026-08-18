@@ -42,6 +42,9 @@ Unlike TLS, which secures specific applications, **IPSec** operates at the **Net
 - **Modes of Operation:**
     - **Transport Mode:** Protects only the payload; the original IP header remains visible.
     - **Tunnel Mode:** Protects the entire packet and wraps it in a new outer IP header, hiding the original sender and recipient.
+
+![[ESP Encapsulation comparison.png]]
+
 - **Core Protocols:**
     - **AH (Authentication Header):** Provides integrity and authenticity but **no encryption**.
     - **ESP (Encapsulating Security Payload):** Provides confidentiality (encryption) and can optionally provide authentication.
