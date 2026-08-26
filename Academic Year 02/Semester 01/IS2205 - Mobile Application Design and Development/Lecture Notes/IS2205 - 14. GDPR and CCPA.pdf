@@ -1,0 +1,99 @@
+The California Consumer Privacy Act (CCPA) and the General Data Protection Regulation (GDPR) are laws that emerged to give individuals greater power over their personal information. Both regulate organizations that collect and use data in a variety of ways.
+
+A brief summary of the CCPA:
+
+    Gives California residents increased transparency and control over how businesses collect and use their data
+    Generally applies to organizations doing business in California, and to those that handle or share the personal information of California residents
+
+A brief summary of the GDPR:
+
+    Gives European Union (E.U.) residents increased transparency and control over how businesses collect and use their data
+    Applies to organizations in and out of the E.U. that process the personal data of E.U. residents
+
+
+
+CCPA vs. GDPR: A closer look at the scope of these data protection laws
+
+The CCPA is about increasing transparency for California residents, allowing them to understand how their data is collected and transacted. Meanwhile, the GDPR regulates data privacy across the E.U., replacing some data protection laws across Europe with a single framework. It’s important to note, however, that the GDPR does have implications for businesses in the United States, despite originating in Europe. 
+
+Side by side, here’s how they compare:
+
+California Consumer Privacy Act (CCPA)
+	
+
+General Data Protection Regulation (GDPR)
+
+Gives rights to consumers who are California residents.
+	
+
+Gives rights to data subjects who are E.U. residents.
+
+Deals with personal information that identifies, relates to, describes, or links with a consumer or household. Some exceptions.
+	
+
+Deals with any personal data of an individual. Doesn’t include households. Only anonymized data is exempt.
+
+Regulates for-profit businesses that operate in California and fulfill a number of monetary conditions and their service providers.
+	
+
+Regulates data controllers and processors that process personal data regarding E.U. individuals.
+
+
+How do the laws define personal information?
+Personal information (CCPA) vs. personal data (GDPR)
+
+The CCPA defines personal information as any information that identifies, describes, relates to, or can be reasonably linked with a consumer or household. 
+
+Under the GDPR, personal data refers to any information that directly or indirectly identifies someone. 
+
+Some examples of “personal information” and “personal data” include full name, email addresses, official document numbers (e.g., passport, driver’s license, and social security), and online identifiers. Note that the CCPA exempts some specific categories from its scope, such as certain medical information. 
+
+While regulations use different terms with slightly varying definitions, “personal data,” “personal information,” and “personally identifiable information (PII)” are often used interchangeably.
+Who do the laws apply to?
+Consumers (CCPA) vs. data subjects (GDPR)
+
+The CCPA protects consumers—natural persons who are California residents. The GDPR focuses on data subjects—any identifiable person residing in the E.U. who can be identified directly or indirectly. Both regulations have a global reach, though under slightly different circumstances. 
+
+
+Businesses (CCPA) vs. data controllers (GDPR)
+
+The CCPA regulates businesses—for-profit organizations that do business in California, collect personal information from California-based consumers, and determine how and why it’ll be processed. One or more of the following must also apply:
+
+    Has $25 million dollars or more in annual gross revenues
+    Buys, receives, sells, or shares the personal information of at least 50,000 consumers, households, or devices
+    Derives at least 50% of annual revenue from selling consumers’ personal information
+
+The CCPA also sets out requirements for service providers—organizations that process personal information on behalf of a business.
+
+The GDPR, on the other hand, targets data controllers—organizations that decide how and why they’ll process personal data belonging to E.U. residents. In addition, the GDPR regulates processors—organizations that process personal data on behalf of controllers. The GDPR applies when the data controller or its processor is established in the E.U., or when non-E.U. controllers process the personal data of E.U. residents when offering commercial goods and services or monitoring their behavior.
+
+Both the CCPA and GDPR impact swathes of globally operating enterprises, so it’s worth evaluating how you collect and use personal data in different territories.
+
+
+What rights do the CCPA and GDPR give people?
+
+The two regulations overlap when it comes to some rights—so if you’re already compliant with GDPR, you’re well on your way to meeting CCPA requirements. Knowing the similarities can also help set you up for compliance with future regulations across geographies that will likely mirror these existing ones. 
+
+Here’s what the CCPA and GDPR have in common:
+
+    The right to know: Under both the CCPA and the GDPR, businesses need to be transparent about what personal data they collect and what they do with that data.
+    The right to access: Individuals are entitled to access their personal data, and can request copies of their personal information verbally or in writing. 
+    The right to opt out: Under certain circumstances, individuals have a right to opt out of having their personal data processed by an organization.
+    The right to portability: Individuals protected by the CCPA and GDPR generally have the right to request their personal information in accessible, readily usable formats such as CSV or XML.
+    The right to erasure: For the most part, individuals have the right to request the deletion of their personal data that an organization has collected or stored.
+
+Of course, each regulation also has its own unique rights. For example, under the CCPA, businesses may offer financial incentives tied to the collection, sale, or deletion of personal information if this is adequately disclosed and consumers opt in. And under the GDPR, decisions made solely by automated means (e.g., algorithms), including processing data to profile people, are only permissible under certain conditions.
+
+
+Under what circumstances can businesses use personal data?
+
+In many instances, the CCPA allows organizations to process data by default, as long as they provide a clear option for consumers to opt out of having their personal information sold or shared (e.g., a banner, form, or a “do not sell my personal information” link). 
+
+Under the GDPR, organizations can only process data when at least one of six legal grounds for data processing applies:
+
+    Consent: Individuals can consent to their personal data being processed for specific purposes, but they can withdraw this consent at any time.
+    Contract: This means processing data is necessary to honor a contract between the individual and organization, or it’s a necessary preliminary step before entering the contract.
+    Legal obligation: When processing an individual’s data is needed to comply with the law.
+    Vital interests: When processing data is needed to protect someone’s life.
+    Public task: If data processing is required to perform a task in the public interest, with a clear basis in law.
+    Legitimate interests: When processing data is necessary for the organization’s legitimate interests, or that of a third party. 

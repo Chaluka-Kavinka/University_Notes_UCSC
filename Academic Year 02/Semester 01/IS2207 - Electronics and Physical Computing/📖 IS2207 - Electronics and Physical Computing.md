@@ -116,3 +116,9 @@ The hands-on skills required to build real devices.
 - **Measurement Tools:** Proficient use of Multimeters, Oscilloscopes, Function Generators, and Power Supply Units (PSU).
 - **Prototyping Methods:** Breadboarding, soldering, and PCB (Printed Circuit Board) design.
 - **EDA & Simulation:** Using software like **LTspice, KiCad, Proteus, or Fritzing** to simulate and design circuits before building them.
+
+---
+
+# 📄 IS2207 Course Descriptor
+
+![[IS2207 - Course Descriptor.pdf]]
