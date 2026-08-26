@@ -32,7 +32,7 @@ To describe how an algorithm behaves at scale, we utilize **three primary notati
 - **Definition**: Big-Oh defines an **upper limit** on an algorithm's growth rate, bounding the function strictly from above. It represents the **worst-case scenario** (though it can technically cover better cases too).
 - **Mathematical Definition**: We say that $T(n)=O(f(n))$ if there exist positive constants c and n0​ such that:
 
-$$T(n)≤c⋅f(n) \quad \text{for all} \quad n≥n_0$$​
+$$T(n) \leq c⋅f(n) \quad \text{for all} \quad n \geq n_0$$​
 
 _(Note: Some course slides represent this boundary strictly as $T(n)<c⋅f(n)$ for all $n≥n0$​)._
 - **Visualizing the Bound**: Beyond the threshold input size n0​, the scaled function c⋅f(n) will always lie **above** the actual runtime curve T(n).
