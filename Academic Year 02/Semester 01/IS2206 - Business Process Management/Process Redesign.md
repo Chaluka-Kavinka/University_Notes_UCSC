@@ -2,6 +2,8 @@
 
 # 1. The Devil’s Quadrangle
 
+![[The Devils Quadrangle.png]]
+
 Analysts must balance four competing performance dimensions when redesigning. This framework highlights that improving one dimension often negatively impacts another:
 
 - **Time:** Minimizing process duration.

@@ -108,15 +108,8 @@ $$\mathbf{CTE = \frac{TCT}{CT} \times 100\%}$$
 ### 😈 The Devil's Quadrangle
 When improving a process, balancing these four dimensions is critical (improving one often tradeoffs with another):
 
-```
-                     ⏱️ TIME
-                   /        \
-                  /          \
-         💰 COST ────────────── ⭐ QUALITY
-                  \          /
-                   \        /
-                 🔀 FLEXIBILITY
-```
+![[The Devils Quadrangle.png]]
+
 
 1. **Time:** Reduce cycle time, processing time, and waiting time.
 2. **Cost:** Lower operational costs, labor costs, and material waste.
