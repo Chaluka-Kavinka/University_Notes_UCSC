@@ -2,6 +2,8 @@ The **BPM Life Cycle** is a continuous, circular process used to manage and impr
 
 # 1. The Six Phases of the BPM Life Cycle
 
+![[The 6-Phase BPM Life Cycle.png]]
+
 1. **Process Identification:** Organizations align BPM objectives with their overall strategies and goals. All existing processes are identified and prioritized to determine which key processes require immediate attention. This results in a **process architecture**.
 2. **Process Discovery:** Analysts gather information about existing processes using techniques like document analysis, interviews, or workshops. This information is organized into an **"As-is" process model**, which serves as an accurate visual of the current state.
 3. **Process Analysis:** The "As-is" model is scrutinized to find strengths and weaknesses.

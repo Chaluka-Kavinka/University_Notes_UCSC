@@ -9,19 +9,8 @@
 
 ## 1. 🔄 The 6-Phase BPM Life Cycle
 
-```
-[1. Process Identification] 
-            ↓
-[2. Process Discovery] (As-Is Model)
-            ↓
-[3. Process Analysis] (Bottlenecks, Issues, Waste)
-            ↓
-[4. Process Redesign] (To-Be Model)
-            ↓
-[5. Process Implementation] (Automation & Execution)
-            ↓
-[6. Process Monitoring & Controlling] (KPI Tracking & Optimization)
-```
+![[The 6-Phase BPM Life Cycle.png]]
+
 
 | Phase | Core Objective | Key Deliverable / Focus |
 | :--- | :--- | :--- |
