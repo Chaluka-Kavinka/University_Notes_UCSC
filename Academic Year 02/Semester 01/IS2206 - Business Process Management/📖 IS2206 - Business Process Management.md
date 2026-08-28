@@ -31,3 +31,8 @@ Upon completing these lessons, you should be able to:
 7. [[Process Redesign]]: Rethinking processes to improve time, cost, and quality.
 8. [[Process Implementation and Monitoring]]: Executing models and tracking KPIs.
 9. [[Change Management]]: Handling organizational transitions.
+
+---
+
+## 🎯 Exam Preparation
+* 📑 [[IS2206 - BPM Exam Revision & Quick Reference Guide|Exam Revision & Quick Reference Guide]]
