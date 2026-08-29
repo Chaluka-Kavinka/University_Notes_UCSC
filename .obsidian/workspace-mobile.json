@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "6d2254f4c0d5635e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a1572f57772bccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d139ae01e07c6801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Year 02/Semester 01/IS2204 - Information System Security/📖 IS2204 - Information System Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📖 IS2204 - Information System Security"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eab2b628dee21b99",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f58d4ee58787d32",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "e4dfc6cf64ffdc9e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "09ff701557634a97",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4c25886318080a79",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "7a196e606b2e5616",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f9a716d79f637338",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4bb0c365b48141ae",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Past Papers/Academic Year 02/Semester 01/IS 2204 - Information System Security.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0f642c29e7d2c583",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Academic Year 02/Semester 01/IS2204 - Information System Security/Malicious Code and Defenses.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e262e9dcdb9bc0a6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Academic Year 02/Semester 01/IS2204 - Information System Security/Malicious Code and Defenses.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d139ae01e07c6801",
+  "lastOpenFiles": [
+    "Academic Year 02/Semester 01/IS2204 - Information System Security/Network and Web Security Protocols.md",
+    "Academic Year 02/Semester 01/IS2204 - Information System Security/📖 IS2204 - Information System Security.md",
+    "Academic Year 02/Semester 01/IS2204 - Information System Security/Application and Document Security.md",
+    "Academic Year 02/Semester 01/IS2204 - Information System Security/Foundations of Cryptography.md",
+    "Academic Year 02/Semester 01/IS2204 - Information System Security/Introduction to Information System Security.md",
+    "Past Papers/Academic Year 02/Semester 01/IS 2204 - Information System Security.pdf",
+    "Academic Year 02/Semester 01/IS2204 - Information System Security/Authentication Protocols.md",
+    "Academic Year 02/Semester 01/IS2204 - Information System Security/Malicious Code and Defenses.md"
+  ]
+}
