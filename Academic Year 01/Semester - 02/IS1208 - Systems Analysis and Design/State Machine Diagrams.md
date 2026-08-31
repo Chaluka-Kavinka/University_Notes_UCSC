@@ -1,5 +1,3 @@
->Next Topic : [[Object Discovery and Advanced UML Diagrams]]
-
 >[!tip] Introduction
 >**State Machine Diagrams** (also known as State Transition Diagrams) are behavioral UML models that capture the **internal life history of a single object**. While Class Diagrams show the static structure of a system, State Diagrams show its **dynamic behavior** by illustrating how an object changes in response to events and time.
 

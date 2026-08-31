@@ -1,5 +1,3 @@
->Next Topic : [[Software Evolution]]
-
 # 1 Understanding Software Testing
 
 **Software testing** is the process of executing a program or application with the intent of finding **software bugs**—errors or flaws that cause incorrect or unexpected results. It is important to note that testing can reveal the presence of errors, but it can never prove their absolute absence; you cannot claim a system is 100% bug-free.

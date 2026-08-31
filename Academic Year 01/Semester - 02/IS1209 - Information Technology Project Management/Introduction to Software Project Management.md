@@ -1,5 +1,3 @@
-> Next Topic : [[Information Technology Context and Process Groups in Project Management]]
-
 **Software Project Management (SPM)** is a discipline aimed at ensuring that software is delivered **on time, within budget and schedule constraints, and satisfies the requirements of the client**. Unlike general projects, software projects are uniquely challenging because software is **intangible (invisible)**, making progress difficult to see; it is often more **complex** than other engineering artifacts; and it is highly **flexible**, meaning it is frequently subjected to changing organizational requirements.
 
 ![[Academic Year 01/Semester - 02/IS1209 - Information Technology Project Management/Images/img_01.svg]]

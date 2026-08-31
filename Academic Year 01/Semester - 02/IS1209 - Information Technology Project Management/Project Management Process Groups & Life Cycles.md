@@ -1,5 +1,3 @@
->Next Topic : [[Capital Budgeting & Financial Metrics]]
-
 >[!Intro]
 >This topic primarily covers **Project Management Process Groups and the Project Life Cycle** within the context of Information Technology
 

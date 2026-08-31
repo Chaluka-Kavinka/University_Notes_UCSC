@@ -1,5 +1,3 @@
->Next Topic : [[Trees]]
-
 A **Linked List** is a dynamic linear data structure consisting of a sequence of elements called **nodes**. Unlike arrays, which store data in contiguous memory, linked list nodes can be scattered throughout memory, connected by **pointers** that store the address of the next item in the chain.
 
 # 1. The Anatomy of a Node

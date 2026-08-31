@@ -1,5 +1,3 @@
->Next Topic : [[Independent Events]]
-
 **Conditional Probability** is the science of updating our "guesses" based on new information. It describes the probability of an event (A) occurring, given that another event (B) has already happened.
 
 ---

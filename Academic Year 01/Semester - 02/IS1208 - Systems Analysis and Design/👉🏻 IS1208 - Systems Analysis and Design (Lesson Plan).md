@@ -1,5 +1,3 @@
-> Next Course : [[👉🏻 IS1209 - Information Technology Project Management (Lesson Plan)]]
-
 - **Course Code** : IS 1208
 - **Course Name** : Systems Analysis and Design
 - **Lecture** : Rupika Wijesinghe

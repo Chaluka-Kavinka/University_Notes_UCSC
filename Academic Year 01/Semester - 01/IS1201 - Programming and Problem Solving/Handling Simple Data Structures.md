@@ -1,5 +1,3 @@
->Next Topic : [[File Handling]]
-
 > [!Info]
 > **Topic 06: Handling Simple Data Structures** is a critical four-week module designed to teach you how to manage and organize data efficiently in C. This topic covers pointers, arrays and strings, structures, unions, and enumerations.
 

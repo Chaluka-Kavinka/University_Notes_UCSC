@@ -1,5 +1,3 @@
->Next Topic : [[System Modeling]]
-
 # 1 What is a Requirement?
 
 Requirements reflect the **needs of customers** for a system that serves a specific purpose, such as controlling a device, placing an order, or finding information. They can range from a high-level abstract statement of a service or constraint to a detailed, mathematical functional specification.

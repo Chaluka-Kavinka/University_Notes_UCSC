@@ -1,5 +1,3 @@
->Next Topic : [[Groups & Teams]]
-
 >[!info]
 >**Emotions and moods** are essential components of organizational behavior that significantly impact how individuals work, communicate, and interact. Historically, they were ignored due to the **"myth of rationality,"** which viewed emotions as irrational or disruptive to productivity. Today, we recognize that workers cannot separate their feelings from the workplace.
 

@@ -1,5 +1,3 @@
->Next Topic: [[Physical Layer]]
-
 > [!INFO]
 > **Core Network Concepts**, provides the foundational theory required to understand how information travels through a network. Based on the provided sources, this topic covers the following key areas:
 

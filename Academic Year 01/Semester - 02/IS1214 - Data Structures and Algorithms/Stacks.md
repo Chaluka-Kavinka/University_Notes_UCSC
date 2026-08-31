@@ -1,5 +1,3 @@
->Next Topic : [[Queues]]
-
 A **Stack** is a linear data structure that follows a very specific rule for managing data: elements can only be inserted or deleted from one end, known as the **TOP**.
 
 # 1. The LIFO Principle

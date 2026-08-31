@@ -1,8 +1,6 @@
->Next Lesson : [[👉🏻 IS1206 - Mathematics for Computing]]
-
-**Course Code** : IS1205
-**Course Name** : Introduction to Management
-**Lecture** : Dr. Shiromi Arunatileka
+- **Course Code** : IS1205
+- **Course Name** : Introduction to Management
+- **Lecture** : Dr. Shiromi Arunatileka
 
 #Lesson-Plan 
 

@@ -1,5 +1,3 @@
->Next Topic : [[Mathematical Logic]]
-
 This subject is foundational for computing, particularly in areas like database theory, formal languages, and data structures.
 
 ---

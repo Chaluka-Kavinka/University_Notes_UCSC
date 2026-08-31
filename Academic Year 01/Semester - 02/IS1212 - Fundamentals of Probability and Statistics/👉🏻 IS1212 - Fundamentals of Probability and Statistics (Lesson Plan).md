@@ -1,5 +1,3 @@
->Next Course : [[👉🏻 IS1213 - Organizational Behavior (Lesson Plan)]]
-
 - **Course Code** : IS 1212
 - **Course Name** : Fundamentals of Probability and Statistics
 - **Lecture** : K S Saubhagya

@@ -1,5 +1,3 @@
->Next Topic : [[Modelling Systems requirements with Use cases]]
-
 >[!tip]
 >Feasibility is a measure of how beneficial and practical the development of an information system will be to an organization. Feasibility analysis is the ongoing process of evaluating this measure at various checkpoints throughout the system's life cycle.
 ---

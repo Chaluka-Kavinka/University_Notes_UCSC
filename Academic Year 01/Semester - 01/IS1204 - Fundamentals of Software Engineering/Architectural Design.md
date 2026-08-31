@@ -1,5 +1,3 @@
->Next Topic : [[Design and Implementation]]
-
 # 1 Understanding Software Architecture
 
 **Software Architecture** is defined as the fundamental organization of a system, consisting of its components, their relationships to one another and the environment, and the principles guiding its design and evolution. **Every system has an architecture**, whether it is formally documented or not.

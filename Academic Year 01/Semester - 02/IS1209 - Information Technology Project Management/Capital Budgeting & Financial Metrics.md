@@ -1,5 +1,3 @@
->Next Topic : [[Project Scope Management]]
-
 >[!Info] Introduction
 >This topic covers the topic of **Capital Budgeting**, which focuses on the financial techniques used to make investment decisions between different projects.
 

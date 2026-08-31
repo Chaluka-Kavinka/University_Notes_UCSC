@@ -1,5 +1,3 @@
->Next Topic: [[Specialized Topics]]
-
 > [!TIP] Overview
 > Application Layer, is the top layer in both the OSI and TCP/IP models. It is the layer that provides services directly to the user and handles the high-level protocols used for network applications
 

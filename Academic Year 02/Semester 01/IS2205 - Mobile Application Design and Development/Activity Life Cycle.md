@@ -1,5 +1,3 @@
->Next Topic : [[Modern UI with Jetpack Compose]]
-
 # Understanding Tasks and the Back Stack
 
 Android manages user experiences through **Tasks** and the **Back Stack**:

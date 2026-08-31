@@ -1,5 +1,3 @@
->Next Topic : [[Logical Database Design]]
-
 >[!tip]
 >This topic helps to explore advanced data modeling concepts required for complex applications such as **Engineering design (CAD/CAM)** and **Geographical Information Systems (GIS)**. It aims to teach students how to use **superclasses, subclasses, and inheritance** to represent specialized groupings of entities and how to map these complex structures into a relational schema.
 

@@ -22,6 +22,10 @@ By the end of these lessons, you should be able to:
 - **Implement Broadcast Receivers:** Understand the **publish-subscribe design** to receive and respond to system-wide or custom broadcast events.
 - **Integrate Hardware Sensors:** Effectively use the **Android sensor framework** to access **Motion, Environmental, and Position sensors**.
 - **Manage Data Persistence:** Choose and implement appropriate storage methods, including **App-specific storage**, **Shared storage**, and structured **Databases** using the **Room persistence library**.
+- **Master Flutter Persistence Strategies:** Implement and compare various storage methods like SharedPreferences, SQLite, and Firebase within a Flutter application.
+- **Implement Concurrent Programming in Dart:** Utilize Future, async, and await to handle time-consuming storage operations without blocking the user interface.
+- **Manage App States for Data:** Effectively use the initState() method to load persisted data and configurations when a widget is first created.
+- **Integrate External Cloud Services:** Successfully connect and configure a Flutter app to use Firebase for remote data persistence.
 ---
 # Topic Covered
 
@@ -70,3 +74,22 @@ By the end of these lessons, you should be able to:
 	- **Shared Storage APIs:** Utilizing the `MediaStore` API and **Storage Access Framework**.
 	- **SQL and SQLite:** Basic database concepts like **Tables, Rows, and Columns**, and using **SQL** for CRUD (Create, Read, Update, Delete) operations.
 	- **Modern Persistence with Room:** Using the **Room library** to replace boilerplate code with **Entities**, **DAOs (Data Access Objects)**, and **Databases**.
+
+9. [[Flutter and Dart Fundamentals]]
+	- **Introduction to Flutter:** Understanding Flutter as Google’s open-source UI toolkit for building natively compiled applications for mobile (Android/iOS), web, and desktop from a **single codebase**.
+	- **Flutter Layered Architecture:** Exploring the system hierarchy composed of the **Framework** (Widgets, rendering), the **Engine** (C++ core, graphics), and the **Embedder** (platform-specific integration).
+	- **Introduction to Dart Programming:** Mastering a modern, object-oriented language that is **strongly typed yet flexible**, featuring null safety and efficient compilation to native ARM or JavaScript.
+	- **Project Structure and Management:** Learning to create projects via terminal or IDE and managing essential files like **main.dart** for source code and **pubspec.yaml** for app dependencies and metadata.
+
+10. [[Advanced Flutter Concepts]]
+	- **The Widget System:** Building complex user interfaces by composing basic, reusable components called **Widgets** into a hierarchical **Widget Tree**.
+	- **Declarative UI Paradigm:** Shifting to a modern framework where the **UI is a function of state**, and widgets automatically describe their view based on current configurations and data.
+	- **Native Container Management:** Analyzing the **"Fate of Activities"** in Flutter, where the entire application typically runs inside a single native container called **FlutterActivity**.
+	- **Stateless and Stateful Widgets:** Categorizing UI components into immutable **Stateless** widgets for static content and dynamic **Stateful** widgets that can change appearance over time.
+
+11. [[Persistence with Flutter]]
+	- **Storage Methods in Flutter:** Learning to choose the right tool for the job, from simple key-value pairs in **SharedPreferences** to structured local databases with **SQLite (sqflite)** and in-memory options like **Hive**.
+	- **Dart Concurrency:** Understanding the "Need for Speed" by using the **async** and **await** keywords alongside the **Future** class to manage background tasks.
+	- **Stateful Persistence:** Leveraging the **StatefulWidget** lifecycle to maintain state and perform initial data loads before the UI is rendered.
+	- **Cloud Integration with Firebase:** Mastering the setup process, including web console configuration, managing **google-services.json**, and handling the necessary dependencies in **pubspec.yaml**.
+	- **Advanced Implementation:** Working with **Enums** to create clean, manageable code for switching between different data sources.

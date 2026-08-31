@@ -1,5 +1,3 @@
->Next Topic : [[Numerical Representation]]
-
 **Graphical representation** is the art of turning messy raw data into useful information that is easy to read, understand, and use for comparisons. Since raw data alone provides very little insight, we use **charts, plots, and tables** to grab an audience's attention and illustrate important facts clearly.
 
 # 1. Presenting Categorical Data

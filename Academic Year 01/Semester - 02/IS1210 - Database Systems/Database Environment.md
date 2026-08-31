@@ -1,5 +1,3 @@
->Next Topic : [[Relational Data Model]]
-
 >[!tip]
 >The primary goal of this topic is to explain the **three-level database architecture** (ANSI-SPARC) and the various components that allow a Database Management System (DBMS) to function as a bridge between users and physical data. Specifically, it aims to:
 >- Differentiate between the **external, conceptual, and internal levels**.

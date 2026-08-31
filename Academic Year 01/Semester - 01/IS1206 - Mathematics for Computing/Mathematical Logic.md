@@ -1,5 +1,3 @@
->Next Topic : [[Indices and Logarithms]]
-
 Mathematical logic provides a formal, universal language with strict syntax to remove the ambiguity found in natural human communication. It is the backbone of programming, AI, and system specifications.
 
 # 1. Propositions and Truth Values

@@ -1,5 +1,3 @@
->Next Topic : [[Link Lists & Double Link Lists]]
-
 A **Queue** is a linear data structure designed to process items in a specific sequence, following the **FIFO (First-In, First-Out)** principle. Unlike a stack, where you only use one end, a queue uses both: one end for adding data and the other for removing it.
 
 # 1. Key Components and Operations

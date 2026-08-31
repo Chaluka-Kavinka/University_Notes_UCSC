@@ -1,5 +1,3 @@
->Next Topic: [[Graphs]]
-
 >[!tip]
 >Complexity Analysis is the mathematical technique used to characterize the time or space an algorithm requires relative to the size of its input $(n)$
 . It allows us to compare different algorithms to see which one performs better as the problem gets larger, independent of the specific computer or programming language used.

@@ -1,5 +1,3 @@
->Next Topic : [[Handling Simple Data Structures]]
-
 > [!Info]
 > Topic 05, **Functions and Recursion**, is a vital part of modular programming, where you divide complex problems into smaller, manageable components to make your programs easier to understand and debug.
 

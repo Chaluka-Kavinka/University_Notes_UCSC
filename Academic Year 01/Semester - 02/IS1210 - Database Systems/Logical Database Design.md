@@ -1,5 +1,3 @@
->Next Topic : [[Data Normalization Process and the Normal Forms]]
-
 >[!tip]
 >The primary objective of **Logical Database Design** is to transform a high-level conceptual model (ER or EER diagram) into a **relational schema**. This involves refining the model to remove features incompatible with the relational model and applying a well-defined set of rules to derive a structured set of tables.
 

@@ -1,5 +1,3 @@
->Next Topic : [[Information Systems and eBusiness]]
-
 # Part 1: Motivation Concepts
 
 ## 1. Definition and Framework Motivation

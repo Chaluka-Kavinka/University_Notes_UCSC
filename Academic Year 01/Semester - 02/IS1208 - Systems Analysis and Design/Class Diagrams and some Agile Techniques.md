@@ -1,5 +1,3 @@
->Next Topic : [[Activity Diagrams]]
-
 >[!tip] Introduction
 >**Class Diagrams** are the primary example of structural UML diagrams, used to document software architecture by emphasizing the static structure of a system through classes, their attributes, methods, and relationships. Complementing these structural models in modern development are **Agile techniques**, which prioritize customer-oriented delivery over heavy documentation.
 

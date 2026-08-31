@@ -1,8 +1,6 @@
->Next Lesson : [[👉🏻 IS1205 - Introduction to Management]]
-
-**Course Code** : IS1204
-**Course Name** : Fundamentals of Software Engineering
-**Lecture** : H N D Thilini (hnd@ucsc.cmb.ac.lk)
+- **Course Code** : IS1204
+- **Course Name** : Fundamentals of Software Engineering
+- **Lecture** : H N D Thilini (hnd@ucsc.cmb.ac.lk)
 
 #Lesson-Plan 
 

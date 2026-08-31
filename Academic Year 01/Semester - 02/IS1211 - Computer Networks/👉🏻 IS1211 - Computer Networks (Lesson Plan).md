@@ -1,5 +1,3 @@
->Next Course : [[👉🏻 IS1212 - Fundamentals of Probability and Statistics (Lesson Plan)]]
-
 - **Course Code** : IS 1211
 - **Course Name** : Computer Networks
 - **Lecture** : Mr. Tharindu Wijethilake & Dr. Chamath Keppitiyagama

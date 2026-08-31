@@ -1,8 +1,6 @@
->Next Lesson : Will Be Available Soon! 🎉
-
-**Course Code** : IS1206
-**Course Name** : Mathematics for Computing
-**Lecture** : Dr. Lasanthi N C De Silva (lnc@ucsc.cmb.ac.lk)
+- **Course Code** : IS1206
+- **Course Name** : Mathematics for Computing
+- **Lecture** : Dr. Lasanthi N C De Silva (lnc@ucsc.cmb.ac.lk)
 
 #Lesson-Plan 
 

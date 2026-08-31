@@ -1,5 +1,3 @@
->Next Topic : [[Functions and Recursion]]
-
 > [!Info]
 > Based on the organization we established earlier, **Topic 04** covers **Macros and the Preprocessor**, which are tools used to manipulate your source code before the actual compilation process begins.
 

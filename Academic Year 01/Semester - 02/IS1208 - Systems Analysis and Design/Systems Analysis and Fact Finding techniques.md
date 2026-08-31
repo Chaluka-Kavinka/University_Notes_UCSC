@@ -1,5 +1,3 @@
->Next Topic : [[Feasibility Analysis]]
-
 >[!tip]
 >Systems analysis is a fundamental step in the development of any information system, serving as the bridge between understanding a business problem and designing a technical solution.
 

@@ -1,5 +1,3 @@
->Next Course : [[👉🏻 IS1202 - Computer Systems]]
-
 - **Course Code** : IS1201
 - **Course Name** : Programming and Problem Soving
 - **Lecture** : W V Welgama (wvw@ucsc.cmb.ac.lk), R N Abeweera (rns@ucsc.cmb.ac.lk)

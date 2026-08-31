@@ -1,5 +1,3 @@
->Next Topic : [[State Machine Diagrams]]
-
 >[!tip] Introduction
 >**Activity Diagrams** model the process steps or specific use-case activities within a system, representing its **dynamic behavior**. While they are similar to flowcharts, they are unique because they can graphically represent **parallel activities**.
 

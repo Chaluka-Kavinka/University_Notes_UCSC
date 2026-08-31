@@ -1,5 +1,3 @@
-> Next Topic : [[Database Environment]]
-
 >[!tip]
 >This topic helps to establish a foundational understanding of the **database approach** as a solution to the limitations of traditional file-based data management.
 >

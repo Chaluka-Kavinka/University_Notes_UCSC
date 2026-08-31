@@ -1,5 +1,3 @@
->Next Topic : [[Basic Logic Circuit Design]]
-
 > [!Info]
 > Topic 01 of this course is **Data Representation and Computer Arithmetic**. This section provides the foundational knowledge of how information is stored, categorized, and processed within a computer system.
 

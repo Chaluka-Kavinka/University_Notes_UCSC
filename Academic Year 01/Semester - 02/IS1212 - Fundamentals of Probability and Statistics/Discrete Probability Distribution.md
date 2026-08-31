@@ -1,5 +1,3 @@
->Next Topic : [[Continuous Probability Distribution]]
-
 >[!tip]
 >**Discrete Probability Distributions** describe how probabilities are spread across the possible values of a discrete random variable. A valid probability mass function $(pmf)$, denoted as $f(x)$, must ensure that every individual probability is between 0 and 1, and the sum of all probabilities equals exactly 1.
 

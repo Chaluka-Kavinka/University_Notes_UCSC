@@ -1,5 +1,3 @@
->Next Topic : [[Software Testing]]
-
 # 1 Introduction to Design and Implementation
 
 In modern software engineering, **software design and implementation activities are invariably interleaved**, meaning they often happen simultaneously rather than as strictly separate phases.

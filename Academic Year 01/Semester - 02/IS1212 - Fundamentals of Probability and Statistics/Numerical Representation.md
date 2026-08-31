@@ -1,5 +1,3 @@
->Next Topic : [[Introduction to Probability]]
-
 Numerical representation involves using **descriptive statistics** to simplify raw data into an understandable form by highlighting its most important features. While graphs give us a picture, numerical measures give us the exact "GPS coordinates" and "size" of our data.
 
 # 1. Measures of Location (The "Where")
