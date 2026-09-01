@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff69357a8d167422",
+        "id": "bdfc23be01326b34",
         "type": "tabs",
         "children": [
           {
-            "id": "37bc91f1d4feaa7e",
+            "id": "4b98743ba5b8b006",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Sensors and Actuators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sensors and Actuators"
             }
           }
         ],
@@ -38,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -170,8 +176,8 @@
               "state": {
                 "file": "University Of Colombo - School Of Computing/Semester - 02/IS1214 - Data Structures and Algorithms/Sorting Methods.md"
               },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
+              "icon": "lucide-ghost",
+              "title": "footnotes"
             }
           }
         ],
@@ -234,19 +240,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "publish:Publish changes...": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "37bc91f1d4feaa7e",
+  "active": "4b98743ba5b8b006",
   "lastOpenFiles": [
+    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Practical Prototyping and Safety.md",
+    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Physical Computing and IoT.md",
+    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Electronic Fundamentals.md",
+    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Electronic Components.md",
+    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Digital Electronics.md",
+    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Lecture Notes/IS2207 - 15. IoT & ESP32 Programming Options.pdf",
+    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Sensors and Actuators.md",
+    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/📖 IS2207 - Electronics and Physical Computing.md",
+    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Lecture Notes/IS2207 - Course Descriptor.pdf",
+    "README.md",
+    "Past Papers/Past Papers.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Tree Data Structures and Balancing.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Searching Complexity.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Graph Data Structures and Algorithms.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/📖 IS2202 Advanced Data Structures and Algorithms.md",
+    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/👉🏻 IS1208 - Systems Analysis and Design (Lesson Plan).md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Kotlin Programming.md",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Intents and Broadcast Receivers.md",
@@ -259,17 +273,6 @@
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Relations and Functions.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Set Theory.md",
-    "README.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Memory Management and Advanced Scoping.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Specialized Class Members and Keywords.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Polymorphism (Overloading Functions & Operators).md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/The Object Life-cycle (Constructors & Destructors).md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/C++ Language Fundamentals & Data Types.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Building Classes and Objects.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Activity Life Cycle.md",
     "Excalidraw",
     "Academic Year 02/Semester 01/IS2206 - Business Process Management",
     "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development",
@@ -277,8 +280,6 @@
     "Academic Year 02/Semester 01",
     "Academic Year 02",
     "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts/mindmap.html",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/Activity Diagram/final-state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/Iinitial -state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/final-state.jpg",
