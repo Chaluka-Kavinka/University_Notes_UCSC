@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bdfc23be01326b34",
+        "id": "e7856e1eeabf470d",
         "type": "tabs",
         "children": [
           {
-            "id": "4b98743ba5b8b006",
+            "id": "062c13ce4930dc36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Sensors and Actuators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sensors and Actuators"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -77,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
+                "file": "Past Papers/Academic Year 02/Semester 01/IS 2206 - Business Process Management.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 👉🏻 IS1206 - Mathematics for Computing"
+              "title": "Outline"
             }
           },
           {
@@ -194,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
+                "file": "Past Papers/Academic Year 02/Semester 01/IS 2206 - Business Process Management.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 👉🏻 IS1206 - Mathematics for Computing"
+              "title": "Local graph"
             }
           }
         ]
@@ -243,53 +240,91 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b98743ba5b8b006",
+  "floating": {
+    "id": "43d253677ac766e7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9fb357c152c6da76",
+        "type": "window",
+        "children": [
+          {
+            "id": "e60313a7c19f20f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a6b66e99fc4e6382",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Past Papers/Academic Year 02/Semester 01/IS 2206 - Business Process Management.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "IS 2206 - Business Process Management"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 890,
+        "y": 4,
+        "width": 642,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "062c13ce4930dc36",
   "lastOpenFiles": [
+    "Untitled.base",
+    "2026-09-02.md",
+    "README.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/IS2206 - BPM Exam Revision & Quick Reference Guide.md",
+    "Past Papers/Academic Year 02/Semester 01/IS 2206 - Business Process Management.pdf",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Process Implementation and Monitoring.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/📖 IS2206 - Business Process Management.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Process Redesign.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Introduction to Business Processes.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Lecture Notes/IS2206 - 10. L09 Benchmarking.pdf",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Lecture Notes/IS2206 - 11. L10 Change Management.pdf",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Lecture Notes/IS2206 - 09. Lesson 08 - Process Implementation And Automation.pdf",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Lecture Notes/IS2206 - 02. L01 Business Processes in Action.pdf",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Lecture Notes/IS2206 - 05. L04 - BPMN.pdf",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/BPM Life Cycle and BPM Suites.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Process Discovery.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Lecture Notes/IS2206 - 08. L07 Process Redesign.pdf",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Lecture Notes/IS2206 - 01. ReferenceMaterials.pdf",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Process Identification.md",
+    "Past Papers/Past Papers.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Business Process Modeling (BPMN).md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Process Analysis.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Change Management.md",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Images/The 6-Phase BPM Life Cycle.jpg",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Images/The Devils Quadrangle.jpg",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Images/The Devils Quadrangle.png",
+    "Academic Year 02/Semester 01/IS2206 - Business Process Management/Images/The 6-Phase BPM Life Cycle.png",
+    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Sensors and Actuators.md",
     "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Practical Prototyping and Safety.md",
     "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Physical Computing and IoT.md",
     "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Electronic Fundamentals.md",
     "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Electronic Components.md",
     "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Digital Electronics.md",
     "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Lecture Notes/IS2207 - 15. IoT & ESP32 Programming Options.pdf",
-    "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Sensors and Actuators.md",
     "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/📖 IS2207 - Electronics and Physical Computing.md",
     "Academic Year 02/Semester 01/IS2207 - Electronics and Physical Computing/Lecture Notes/IS2207 - Course Descriptor.pdf",
-    "README.md",
-    "Past Papers/Past Papers.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Tree Data Structures and Balancing.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Searching Complexity.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Graph Data Structures and Algorithms.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/📖 IS2202 Advanced Data Structures and Algorithms.md",
-    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/👉🏻 IS1208 - Systems Analysis and Design (Lesson Plan).md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Kotlin Programming.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Intents and Broadcast Receivers.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Sensors in Android.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Persistence (Data Storage).md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Android Application Project Elements.md",
-    "Academic Year 01/Semester - 01/IS1201 - Programming and Problem Solving/👉🏻 IS1201 - Programming and Problem Soving.md",
-    "Academic Year 01/Semester - 01/IS1201 - Programming and Problem Solving/Overview and History of Programming Languages.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Modern UI with Jetpack Compose.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms",
-    "Excalidraw",
-    "Academic Year 02/Semester 01/IS2206 - Business Process Management",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming",
-    "Academic Year 02/Semester 01",
-    "Academic Year 02",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts/mindmap.html",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/Activity Diagram/final-state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/Iinitial -state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/final-state.jpg",
     "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/img_01.png",
     "University Of Colombo - School Of Computing/Semester - 02/IS1211 - Computer Networks/Images/osi_model_layers.svg",
     "University Of Colombo - School Of Computing/Semester - 02/IS1211 - Computer Networks/Images/computer_networks_study_roadmap.svg",
-    "University Of Colombo - School Of Computing/Semester - 02/IS1211 - Computer Networks/Images/computer_networks_study_roadmap (1).svg",
-    "University Of Colombo - School Of Computing/Semester - 02/IS1211 - Computer Networks/Pasted image 20260325111335.png",
-    "Academic Year 01/Semester - 02/IS1210 - Database Systems/Images/ER diagram symbols.png",
-    "Untitled.canvas",
-    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Images/Sorting Techniques/Bubble Sort - Algorithm.png"
+    "Untitled.canvas"
   ]
 }
