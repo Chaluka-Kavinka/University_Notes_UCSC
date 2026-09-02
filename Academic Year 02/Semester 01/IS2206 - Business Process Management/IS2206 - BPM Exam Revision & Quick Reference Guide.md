@@ -141,3 +141,20 @@ When improving a process, balancing these four dimensions is critical (improving
    * Deploy the new process/system, provide hands-on training, and guide new behaviors.
 3. **Refreeze (Lock in New Habits):**
    * Institutionalize new standard operating procedures (SOPs), align KPIs, reward adoption, and prevent relapse into old habits.
+
+### ⚖️ Lewin's Force Field Analysis
+* **Driving Forces:** Pressures *for* change (technology, competition, strategy).
+* **Restraining Forces:** Pressures *against* change (fear, loss of power, habits).
+* **Equilibrium:** Status quo where Driving Forces = Restraining Forces.
+* **Goal:** Enable change primarily by **reducing restraining forces** (lowers resistance with less friction).
+
+### 🚀 Kotter's 8-Step Change Model
+1. **Create Urgency:** Highlight threats, opportunities, and competitive realities.
+2. **Form a Guiding Coalition:** Assemble key influencers across levels and departments.
+3. **Create a Vision for Change:** Define clear values and a concise future-state strategy.
+4. **Communicate the Vision:** Share constantly, address fears, and lead by example.
+5. **Remove Obstacles:** Align structures/rewards and empower change agents.
+6. **Create Short-Term Wins:** Deliver early, visible, low-risk successes.
+7. **Build on the Change:** Consolidate gains and drive continuous improvement.
+8. **Anchor Changes in Corporate Culture:** Institutionalize values in hiring, training, and norms.
+
