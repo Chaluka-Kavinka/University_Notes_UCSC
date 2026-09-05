@@ -1,75 +1,74 @@
-- Course Code : IS 2202
-- Course Name : Advanced Data Structures and Algorithms
-- Lecture : Dr. Kasun Karunanayaka | Dr. Yohani Ranasinghe
+- **Course Code** : IS 2202
+- **Course Name** : Advanced Data Structures and Algorithms
+- **Lecture** : Dr. Kasun Karunanayaka | Dr. Yohani Ranasinghe
 
 #Lesson-Plan 
 
-
-> [!Tip] Objective of this Lesson
-> The primary objectives of this lesson are to enable you to:
->  - Understand and evaluate the fundamental **complexity trade-offs** (Time Complexity vs. Space Complexity) inherent in algorithm design.
-> - Formulate mathematical, hardware-independent representations of code execution times using a standardized **sequential computational model**.
-> - Examine how resource consumption scales as input sizes (n) grow arbitrarily large, moving from exact instruction counts to **asymptotic notations**.
-> - Formally define, calculate, and apply the rules of **Big-O, Big-Omega, and Big-Theta notations** to classify algorithms into standard complexity classes.
+> [!important] Goal
+> The primary goal of this course is to develop advanced theoretical foundations and practical skills for designing, analyzing, and implementing complex data structures and efficient algorithms. The curriculum transitions from elementary sequential programming to rigorous asymptotic complexity analysis, multi-way search trees, global tree balancing, graph traversal paradigms, hashing techniques, greedy optimization, and data compression.
 
 ---
-# Summary of Entire Lesson
+# The specific objectives of the module include:
 
-The lesson begins by explaining that designing algorithms is about managing trade-offs, particularly balancing **Time Complexity** (how long it takes to run) and **Space Complexity** (how much memory/storage it consumes). These trade-offs are illustrated using grocery shopping analogies: driving a large car to buy everything at once is time-efficient but space-costly, whereas walking back and forth with a small tote bag is space-efficient but highly time-consuming.
-
-To compare algorithms objectively without hardware bias, the lesson introduces the **Sequential Computational Model**. This computer-independent model assumes sequentially executed instructions, infinite memory, and a cost of one unit of time for every simple instruction (assignments, comparisons, increments). By applying this model, exact instruction-counting equations can be derived for code. For example:
-
-- Managing a loop block like `for (int j = 0; j < n; j++)` costs 2n+2 instructions.
-- **Sequential (Linear) Search** yields an exact worst-case cost of 3n+3 instructions, but operates at an average/typical case cost of 3/4n comparisons when assuming a 50/50 target distribution.
-
-As the input size (n) scales towards infinity, exact constants become less significant because the highest-order term dominates ("swamps") the growth rate of the polynomial. The lesson utilizes **Asymptotic Behavior** (where a function continually approaches but never meets a defined limit or curve) and **Unbounded Behavior** (where a function increases without limits as inputs grow) to visualize scaling trends. Examples include asymptotic curves like 1/x, bounded oscillations like sin(x), and unbounded growth profiles like ex and x3.
-
-Finally, **Big O Notation** is defined as the formal language to describe this asymptotic rate of growth. The lesson introduces **three major notations** to bound algorithm complexity:
-
-1. **Big-Oh (O)**: The asymptotic upper bound.
-2. **Big-Omega (Ω)**: The asymptotic lower bound.
-3. **Big-Theta (Θ)**: The asymptotic tight bound.
-
-It details calculation rules (such as ignoring log bases and coefficients) and diagrams standard curves to classify algorithms into runtime categories like constant O(1), logarithmic O(logn), linear O(n), and quadratic O(n2).
+- **Mastering Algorithmic Complexity:** Evaluating time vs. space complexity trade-offs, calculating instruction counts using the sequential computational model, and establishing asymptotic bounds ($O, \Omega, \Theta$).
+- **Balancing Tree Structures:** Implementing tree rotations and applying global balancing algorithms like the Day-Stout-Warren (DSW) algorithm.
+- **Disk-Optimized Indexing with B-Trees:** Understanding multi-way search trees, structural order $m$ constraints, bottom-up insertions with median promotion, and deletion with sibling borrowing and merging.
+- **High-Performance Key-Value Retrieval:** Designing hash tables, analyzing division/multiplication hash functions, and resolving collisions using separate chaining and open addressing (linear probing, quadratic probing, double hashing).
+- **Modeling & Traversing Relational Data:** Applying graph representations, executing Breadth-First Search (BFS) and Depth-First Search (DFS), classifying tree/back/forward/cross edges, performing Topological Sort, and computing Strongly Connected Components (SCC).
+- **Solving Optimization Problems Greedily:** Applying the greedy-choice property and optimal substructure principles to problems like Fractional Knapsack and Activity Selection.
+- **Data Compression & Information Theory:** Constructing optimal prefix codes using Huffman Coding and implementing Run-Length Encoding (RLE) to minimize digital data footprint.
 
 ---
-# Topics Covered in this Lesson
+# Topic Covered
 
-The lecture material is systematically organized into the following topics:
+1. [[Foundations of Algorithms & Graph Theory Fundamentals]]
+	- **Algorithm Definition & Criteria:** Correctness, evaluating multiple algorithmic approaches, and computational resource complexity.
+	- **Graph Theory Foundations:** Vertices, edges, directed vs. undirected, weighted graphs, self-loops, and multigraphs.
+	- **Vertex Degrees & Handshaking Lemma:** In-degree, out-degree, isolated/pendant vertices, and proving the sum of degrees theorem.
+	- **Specialized Graph Families:** Null, complete ($K_n$), regular, cycle ($C_n$), bipartite ($K_{m,n}$), and planar graphs with Euler's formula.
+	- **Walks, Paths, and Cycles:** Classifying walks, trails, paths, circuits, cycles, connectivity, and tree properties.
 
-1. [[Time vs. Space Complexity Trade-offs]]
-    - Definitions of Time and Space complexity.
-    - Real-world grocery shopping analogies (Time-efficient vs. Space-efficient).
+2. [[Algorithm Analysis and Asymptotic Notations]]
+	- **Time vs. Space Complexity:** Evaluating engineering trade-offs using the grocery shopping analogy.
+	- **Sequential Computational Model:** Hardware-independent unit cost assumptions for assignments, comparisons, and arithmetic.
+	- **Exact Instruction Counting:** Mathematical derivations for sequential code, single loops ($2n+2$), and nested loops ($3n^2+4n+2$).
+	- **Linear Search Analysis:** Formal best-case $O(1)$, worst-case $3n+3$, and average-case $\frac{3}{4}n$ derivations.
+	- **Asymptotic Notations ($O, \Omega, \Theta$):** Mathematical definitions, growth dominance, logarithm simplification rules, and standard complexity curves.
 
-2. [[The Sequential Computational Model]]
-    - Core assumptions of computer-independent models.
-    - Unit costs for basic programmatic operations.
+3. [[Tree Data Structures and DSW Tree Balancing]]
+	- **Binary Search Tree (BST) Review:** BST ordering invariant, search/insert/delete operations, and in-order traversal sorting.
+	- **Degenerate Trees & Need for Balancing:** Preventing $O(n)$ worst-case degradation through local vs. global balancing.
+	- **Tree Rotations:** Mechanics and invariant preservation of Right Rotations and Left Rotations.
+	- **The Day-Stout-Warren (DSW) Algorithm:** Phase 1 backbone/vine flattening ($O(n)$) and Phase 2 compression into a balanced BST ($O(n)$ time, $O(1)$ auxiliary space).
 
-3. [[Code Instruction Counting]]
-    - Calculating cost equations for sequential assignments.
-    - Evaluating loops and nested loops step-by-step (e.g., deriving $3n^2+4n+3$ costs).
+4. [[B-Trees and Multi-Way Search Trees]]
+	- **Secondary Storage Optimization:** Overcoming disk I/O bottlenecks and block transfer constraints.
+	- **Structural Properties of Order $m$:** Max/min bounds on keys ($m-1$) and children ($m$), half-full internal node constraints, and root exceptions.
+	- **Search & Insertion Mechanics:** Multiway search, leaf-level insertions, overflow detection, and upward median promotion.
+	- **Deletion & Underflow Resolution:** In-order predecessor/successor replacement, sibling borrowing (rotations), and sibling merging.
+	- **Interactive Animation:** Embedded interactive visual widget for step-by-step B-Tree insertion.
 
-4. [[Complexity Analysis of Linear Search]]
-    - Deriving the worst-case total cost of $3n+3$.
-    - Identifying Best Case vs. Worst Case scenarios.
-    - Deriving the typical average-case cost of $3/4n$ comparisons.
+5. [[Hashing and Collision Resolution Techniques]]
+	- **Evolution of Searching:** Limitations of direct-address tables and the motivation for space-efficient hash tables.
+	- **Hash Functions:** Division method, multiplication method (Knuth's ratio), universal hashing, and perfect hashing.
+	- **Separate Chaining:** Linked list collision resolution, load factor $\alpha = n/m$, and $O(1)$ average-time proof.
+	- **Open Addressing:** Linear probing (primary clustering), quadratic probing (secondary clustering), double hashing, and tombstone lazy deletion.
 
-5. [[Polynomial Rate of Growth]]
-    - Identifying highest-order dominating terms.
-    - Comparing linear vs. quadratic function growth $(100n \text{ vs } n^2+n)$.
+6. [[06. Advanced Graph Algorithms and Traversals]]
+	- **Graph Memory Representations:** Space and time trade-offs between Adjacency Matrix ($\Theta(V^2)$) and Adjacency List ($\Theta(V+E)$).
+	- **Breadth-First Search (BFS):** 3-coloring scheme, queue mechanics, shortest path property, and $O(V+E)$ time.
+	- **Depth-First Search (DFS):** Discovery/finish timestamps ($d[u], f[u]$), Parenthesis Theorem, and recursion/stack traversal.
+	- **Edge Classifications & DAGs:** Tree, back (cycle detection), forward, and cross edges.
+	- **Topological Sort & SCC:** Linear DAG ordering via finish times, and Kosaraju-Sharir algorithm for strongly connected components.
 
-6. [[Asymptotic and Unbounded Behavior]]
-    - Mathematical definitions of asymptotes and limits.
-    - Analyzing behavioral bounds of functions $(1/x, \sin(x), e^x, \text{ and } x^3)$.
+7. [[Greedy Algorithms and Optimization Problems]]
+	- **Greedy Algorithmic Paradigm:** Locally optimal choices yielding global optimums, and comparisons with Dynamic Programming.
+	- **Core Elements:** The Greedy-Choice Property and Optimal Substructure.
+	- **Fractional Knapsack Problem:** Value-to-weight ratio heuristic ($v_i / w_i$), greedy filling proof, and $O(n \log n)$ complexity.
+	- **0-1 Knapsack Limitations:** Demonstrating why greedy fails for non-divisible items.
 
-7. [[Asymptotic Notations]] ( O , Ω , Θ )
-    - Formal definition of **Big-Oh** $(T(n) ≤ c⋅f(n) \text{ when } n≥n_0​)$.
-    - Differentiating Upper Bounds (O), Lower Bounds (Ω), and Tight Bounds (Θ).
-
-8. [[Big-Oh Mathematical Rules]]
-    - Logarithm simplification rules (ignoring bases and internal powers).
-    - Exponent rules (exponents and bases cannot be ignored).
-
-9. [[Standard Complexity Classes and Curves]]
-    - Visualizing different **Big O** growth curves.
-    - Code examples demonstrating $O(1)$ constant time, $O(n)$ linear time, $O(\log{n})$ logarithmic time, and $O(n^2)$ space/time quadratic complexities.
+8. [[Data Compression Algorithms (Huffman & RLE)]]
+	- **Data Compression Fundamentals:** Lossless vs. lossy compression and fixed-length vs. variable-length encoding savings.
+	- **The Prefix-Free Rule:** Designing instantaneous codes mapped to leaf nodes of binary trees.
+	- **Huffman Coding Algorithm:** Greedy min-heap construction, codeword derivation, and weighted tree cost calculation.
+	- **Run-Length Encoding (RLE):** Algorithm mechanics, best-case compression, worst-case data expansion, and practical applications.

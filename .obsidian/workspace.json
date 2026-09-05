@@ -4,20 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "ff69357a8d167422",
+        "id": "b935459f4d7c0e7d",
         "type": "tabs",
         "children": [
           {
-            "id": "37bc91f1d4feaa7e",
+            "id": "70871edb53d87242",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/📖 IS2202 Advanced Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "📖 IS2202 Advanced Data Structures and Algorithms"
+            }
+          },
+          {
+            "id": "f296236d867fd894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Foundations of Algorithms & Graph Theory Fundamentals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Foundations of Algorithms & Graph Theory Fundamentals"
+            }
+          },
+          {
+            "id": "23630295eb70cb49",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Past Papers/Academic Year 02/Semester 01/IS 2202 - Advanced Data Structures and Algorithms.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "IS 2202 - Advanced Data Structures and Algorithms"
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -38,7 +89,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -50,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#🗂️",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +119,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -84,7 +140,7 @@
       {
         "id": "456e5f707034a639",
         "type": "tabs",
-        "dimension": 60.782442748091604,
+        "dimension": 50,
         "children": [
           {
             "id": "09f8df5c3302a825",
@@ -92,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Past Papers/Academic Year 02/Semester 01/IS 2207 - Electronic & Physical Computing.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Code Instruction Counting.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 👉🏻 IS1206 - Mathematics for Computing"
+              "title": "Outline"
             }
           },
           {
@@ -168,19 +225,18 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "University Of Colombo - School Of Computing/Semester - 02/IS1214 - Data Structures and Algorithms/Sorting Methods.md"
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Code Instruction Counting.md"
               },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
+              "icon": "lucide-ghost",
+              "title": "footnotes"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
-        "id": "5ca9c691d47aa69a",
+        "id": "492cb0a50a851d3c",
         "type": "tabs",
-        "dimension": 39.217557251908396,
+        "dimension": 50,
         "children": [
           {
             "id": "c8b0b71c0703baa0",
@@ -188,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
+                "file": "Past Papers/Academic Year 02/Semester 01/IS 2207 - Electronic & Physical Computing.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +253,7 @@
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -211,19 +267,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6024013357398852,
+                  "scale": 0.4016008904932567,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 👉🏻 IS1206 - Mathematics for Computing"
+              "title": "Local graph"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 425.5,
+    "width": 373.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -234,61 +290,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "publish:Publish changes...": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "37bc91f1d4feaa7e",
+  "active": "23630295eb70cb49",
   "lastOpenFiles": [
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Tree Data Structures and Balancing.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Searching Complexity.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Graph Data Structures and Algorithms.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Foundations of Algorithms & Graph Theory Fundamentals.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/📖 IS2202 Advanced Data Structures and Algorithms.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/📖 IS2205 - Mobile Application Design and Development.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Kotlin Programming.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Intents and Broadcast Receivers.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Sensors in Android.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Persistence (Data Storage).md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Android Application Project Elements.md",
-    "Academic Year 01/Semester - 01/IS1201 - Programming and Problem Solving/👉🏻 IS1201 - Programming and Problem Soving.md",
-    "Academic Year 01/Semester - 01/IS1201 - Programming and Problem Solving/Overview and History of Programming Languages.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Modern UI with Jetpack Compose.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/👉🏻 IS1206 - Mathematics for Computing.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Relations and Functions.md",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Set Theory.md",
-    "README.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Memory Management and Advanced Scoping.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Specialized Class Members and Keywords.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Polymorphism (Overloading Functions & Operators).md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/The Object Life-cycle (Constructors & Destructors).md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/C++ Language Fundamentals & Data Types.md",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Building Classes and Objects.md",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development/Activity Life Cycle.md",
-    "Excalidraw",
-    "Academic Year 02/Semester 01/IS2206 - Business Process Management",
-    "Academic Year 02/Semester 01/IS2205 - Mobile Application Design and Development",
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming",
-    "Academic Year 02/Semester 01",
-    "Academic Year 02",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts/mindmap.html",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing/Artifacts",
-    "Academic Year 01/Semester - 01/IS1206 - Mathematics for Computing",
-    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/Activity Diagram/final-state.jpg",
-    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/Iinitial -state.jpg",
-    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/State Machine Diagram/final-state.jpg",
-    "Academic Year 01/Semester - 02/IS1208 - Systems Analysis and Design/Images/img_01.png",
-    "University Of Colombo - School Of Computing/Semester - 02/IS1211 - Computer Networks/Images/osi_model_layers.svg",
-    "University Of Colombo - School Of Computing/Semester - 02/IS1211 - Computer Networks/Images/computer_networks_study_roadmap.svg",
-    "University Of Colombo - School Of Computing/Semester - 02/IS1211 - Computer Networks/Images/computer_networks_study_roadmap (1).svg",
-    "University Of Colombo - School Of Computing/Semester - 02/IS1211 - Computer Networks/Pasted image 20260325111335.png",
-    "Academic Year 01/Semester - 02/IS1210 - Database Systems/Images/ER diagram symbols.png",
-    "Untitled.canvas",
-    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Images/Sorting Techniques/Bubble Sort - Algorithm.png"
+    "Past Papers/Academic Year 02/Semester 01/IS 2202 - Advanced Data Structures and Algorithms.pdf",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/B-Trees and Multi-Way Search Trees.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Collision Resolution Techniques.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Greedy Algorithms and Optimization Problems.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Data Compression Algorithms (Huffman & RLE).md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Tree Data Structures and DSW Tree Balancing.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Algorithm Analysis and Asymptotic Notations.md",
+    "check_clean.py",
+    "format_cleanups.py",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/data_compression_paradigms.png",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/graph_representations_matrix_list.png",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/btree_deletion_flowchart.png",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/bst_operations_degenerate.png",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/walks_trails_paths_classification.png",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/vertex_degrees_isolated_pendant.png",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/sample_graph_structure.png",
+    "generate_all_diagrams.py",
+    "list_diagrams.py",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/graph_fundamentals_families.png",
+    "generate_note1_diagram.py",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/huffman_coding_tree.png",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/fractional_knapsack_greedy.png",
+    "generate_course_diagrams.py",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/06. Advanced Graph Algorithms and Traversals.md",
+    "tmp.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Insertion in B-Trees.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Special Graph Types.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Topological Sort.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Strongly Connected Components.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Edge Classification.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Depth First Search.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Breadth First Search.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Graph Representations.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Collision Resolution.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Universal and Perfect Hashing.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Introduction to Hash Tables.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Graph Terminology.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Searching Algorithms and Direct Address Tables.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/B-Tree Properties and Applications.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Searching in B-Trees.md",
+    "topics_summary.txt",
+    "extract_topics.py",
+    "Untitled.canvas"
   ]
 }
