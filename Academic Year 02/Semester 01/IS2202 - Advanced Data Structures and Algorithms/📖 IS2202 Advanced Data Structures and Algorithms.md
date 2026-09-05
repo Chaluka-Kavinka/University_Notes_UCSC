@@ -54,7 +54,7 @@
 	- **Separate Chaining:** Linked list collision resolution, load factor $\alpha = n/m$, and $O(1)$ average-time proof.
 	- **Open Addressing:** Linear probing (primary clustering), quadratic probing (secondary clustering), double hashing, and tombstone lazy deletion.
 
-6. [[06. Advanced Graph Algorithms and Traversals]]
+6. [[Advanced Graph Algorithms and Traversals]]
 	- **Graph Memory Representations:** Space and time trade-offs between Adjacency Matrix ($\Theta(V^2)$) and Adjacency List ($\Theta(V+E)$).
 	- **Breadth-First Search (BFS):** 3-coloring scheme, queue mechanics, shortest path property, and $O(V+E)$ time.
 	- **Depth-First Search (DFS):** Discovery/finish timestamps ($d[u], f[u]$), Parenthesis Theorem, and recursion/stack traversal.

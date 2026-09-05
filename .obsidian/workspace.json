@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b935459f4d7c0e7d",
+        "id": "5f5fe1f2011fd5f1",
         "type": "tabs",
         "children": [
           {
-            "id": "70871edb53d87242",
+            "id": "060159b8890b6a5a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Past Papers/Academic Year 02/Semester 01/IS 2202 - Advanced Data Structures and Algorithms.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "IS 2202 - Advanced Data Structures and Algorithms"
+            }
+          },
+          {
+            "id": "008eb0dc04deb1f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/📖 IS2202 Advanced Data Structures and Algorithms.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -32,12 +44,12 @@
             }
           },
           {
-            "id": "f296236d867fd894",
+            "id": "fd21052baf957387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Foundations of Algorithms & Graph Theory Fundamentals.md",
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Advanced Graph Algorithms and Traversals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +64,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Foundations of Algorithms & Graph Theory Fundamentals"
+              "title": "Advanced Graph Algorithms and Traversals"
             }
           },
           {
-            "id": "23630295eb70cb49",
+            "id": "f63a63ea2a1067f3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Past Papers/Academic Year 02/Semester 01/IS 2202 - Advanced Data Structures and Algorithms.pdf"
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Data Compression Algorithms (Huffman & RLE).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "IS 2202 - Advanced Data Structures and Algorithms"
+              "icon": "lucide-file",
+              "title": "Data Compression Algorithms (Huffman & RLE)"
+            }
+          },
+          {
+            "id": "2636c81a63b9c059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Greedy Algorithms and Optimization Problems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Greedy Algorithms and Optimization Problems"
+            }
+          },
+          {
+            "id": "445760fae601ad06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Collision Resolution Techniques.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hashing and Collision Resolution Techniques"
+            }
+          },
+          {
+            "id": "68e507f2fb529a83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/B-Trees and Multi-Way Search Trees.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B-Trees and Multi-Way Search Trees"
+            }
+          },
+          {
+            "id": "b1640a35e9a20938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Tree Data Structures and DSW Tree Balancing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tree Data Structures and DSW Tree Balancing"
+            }
+          },
+          {
+            "id": "43e54f9e02e2b6f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/B-Trees and Multi-Way Search Trees.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B-Trees and Multi-Way Search Trees"
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +247,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🗂️",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -293,16 +437,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "23630295eb70cb49",
+  "active": "008eb0dc04deb1f8",
   "lastOpenFiles": [
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Foundations of Algorithms & Graph Theory Fundamentals.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Advanced Graph Algorithms and Traversals.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/📖 IS2202 Advanced Data Structures and Algorithms.md",
-    "Past Papers/Academic Year 02/Semester 01/IS 2202 - Advanced Data Structures and Algorithms.pdf",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/B-Trees and Multi-Way Search Trees.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Collision Resolution Techniques.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Greedy Algorithms and Optimization Problems.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Data Compression Algorithms (Huffman & RLE).md",
+    "Advanced Graph Algorithms and Traversals.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Greedy Algorithms and Optimization Problems.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Hashing and Collision Resolution Techniques.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/B-Trees and Multi-Way Search Trees.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Tree Data Structures and DSW Tree Balancing.md",
+    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Foundations of Algorithms & Graph Theory Fundamentals.md",
+    "Past Papers/Academic Year 02/Semester 01/IS 2202 - Advanced Data Structures and Algorithms.pdf",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/👉🏻 IS1214 - Data Structures and Algorithms (Lesson Plan).md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Graphs.md",
+    "Academic Year 01/Semester - 02/IS1214 - Data Structures and Algorithms/Trees.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Algorithm Analysis and Asymptotic Notations.md",
     "check_clean.py",
     "format_cleanups.py",
@@ -321,7 +470,6 @@
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/fractional_knapsack_greedy.png",
     "generate_course_diagrams.py",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/06. Advanced Graph Algorithms and Traversals.md",
     "tmp.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Insertion in B-Trees.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Special Graph Types.md",
@@ -335,9 +483,6 @@
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Universal and Perfect Hashing.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Introduction to Hash Tables.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Graph Terminology.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Searching Algorithms and Direct Address Tables.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/B-Tree Properties and Applications.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Searching in B-Trees.md",
     "topics_summary.txt",
     "extract_topics.py",
     "Untitled.canvas"
