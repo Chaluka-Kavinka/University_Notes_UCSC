@@ -31,6 +31,36 @@ Pointers are a fundamental tool for managing memory directly.
 - **Dereferencing Operator (*********):** Used to access the actual value stored at the address a pointer is holding.
 - **Pointer to Pointer:** C++ allows multiple levels of indirection, such as double pointers (`int **pt`) or triple pointers (`int ***ptr`).
 
+### C++ Example: Pointers, References, and Memory Addresses
+```cpp
+#include <iostream>
+
+int main() {
+    int num = 42;
+    
+    // 1. Pointer: Holds the memory address of num
+    int* ptr = &num;
+    
+    // 2. Pointer to Pointer: Holds the memory address of ptr
+    int** ptrToPtr = &ptr;
+    
+    // 3. Reference: An alias (alternative name) for num
+    int& ref = num;
+
+    std::cout << "Original Value: " << num << "\n";
+    std::cout << "Memory Address (&num): " << &num << "\n";
+    std::cout << "Pointer value (ptr): " << ptr << "\n";
+    std::cout << "Dereferenced (*ptr): " << *ptr << "\n";
+    std::cout << "Double Dereference (**ptrToPtr): " << **ptrToPtr << "\n";
+
+    // Modifying through reference modifies the original variable
+    ref = 99;
+    std::cout << "After modifying ref, num = " << num << " and *ptr = " << *ptr << "\n";
+
+    return 0;
+}
+```
+
 # 5. User-Defined Data Types: Structures (*struct*)
 
 Structures allow you to organize simple variables into complex entities, such as grouping a student's name, age, height, and weight.
@@ -40,6 +70,37 @@ Structures allow you to organize simple variables into complex entities, such as
 - **Declaration:** In C++, the keyword `struct` is optional when defining a variable of that type (e.g., `date today;` instead of `struct date today;`).
 - **Member Access:** Use the **dot operator (****.****)** to access specific data members (e.g., `today.day`).
 
+### C++ Example: Defining and Using Structures
+```cpp
+#include <iostream>
+#include <string>
+
+// Defining a structure
+struct Student {
+    int id;
+    std::string name;
+    float gpa;
+};
+
+int main() {
+    // In C++, the 'struct' keyword is optional during declaration
+    Student s1;
+    
+    // Member access using the dot (.) operator
+    s1.id = 22001;
+    s1.name = "Kalindu";
+    s1.gpa = 3.85f;
+
+    // Initialization using aggregate list
+    Student s2 = {22002, "Amara", 3.92f};
+
+    std::cout << "Student 1: " << s1.name << " (ID: " << s1.id << ", GPA: " << s1.gpa << ")\n";
+    std::cout << "Student 2: " << s2.name << " (ID: " << s2.id << ", GPA: " << s2.gpa << ")\n";
+
+    return 0;
+}
+```
+
 # 6. Evolution: Structures to Classes
 
 Classes in C++ are a natural evolution of the C notion of structures. While they are very similar, there are two critical differences:
@@ -48,3 +109,46 @@ Classes in C++ are a natural evolution of the C notion of structures. While they
 - **Default Access (The Key Distinction):**
     - In a **Structure**, members are **PUBLIC** by default.
     - In a **Class**, members are **PRIVATE** by default.
+
+### C++ Example: Struct with Functions vs. Class Default Access
+```cpp
+#include <iostream>
+
+// 1. C++ Struct: Members are PUBLIC by default & can have methods
+struct DateStruct {
+    int day, month, year; // public by default
+
+    void display() const {
+        std::cout << "Date: " << day << "/" << month << "/" << year << "\n";
+    }
+};
+
+// 2. C++ Class: Members are PRIVATE by default
+class DateClass {
+    int day, month, year; // private by default! Cannot be accessed outside directly
+
+public:
+    void setDate(int d, int m, int y) {
+        day = d; month = m; year = y;
+    }
+
+    void display() const {
+        std::cout << "Date: " << day << "/" << month << "/" << year << "\n";
+    }
+};
+
+int main() {
+    DateStruct ds;
+    ds.day = 15; // OK: public by default
+    ds.month = 8;
+    ds.year = 2026;
+    ds.display();
+
+    DateClass dc;
+    // dc.day = 15; // COMPILE ERROR: 'day' is private within this context!
+    dc.setDate(15, 8, 2026); // OK: calling public member function
+    dc.display();
+
+    return 0;
+}
+```

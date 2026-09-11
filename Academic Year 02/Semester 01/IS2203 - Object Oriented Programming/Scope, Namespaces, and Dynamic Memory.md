@@ -23,6 +23,26 @@ The **Scope Resolution Operator** is used to tell the compiler which version of 
 - **Static Member Access:** Used to access a class’s **static variables** or member functions.
 - **Inheritance Ambiguity:** Used to specify which ancestor class's variable to access in complex multiple inheritance scenarios.
 
+### C++ Example: Local vs. Global Scope and `::`
+```cpp
+#include <iostream>
+
+// Global variable
+int count = 100;
+
+int main() {
+    // Local variable with the exact same name
+    int count = 25;
+
+    std::cout << "Local count (takes precedence): " << count << "\n";
+    
+    // Access the global variable using the Scope Resolution Operator (::)
+    std::cout << "Global count (using ::count):   " << ::count << "\n";
+
+    return 0;
+}
+```
+
 # 3. Namespaces
 
 A **namespace** is a designated space used to define or declare identifiers like variables, methods, and classes.
@@ -30,6 +50,35 @@ A **namespace** is a designated space used to define or declare identifiers like
 - **Purpose:** They allow programmers to use functions and classes with the same name across different libraries without causing conflicts.
 - **Syntax:** Identifiers are called using the syntax `namespace_name::code;`.
 - **Directive:** Using `using namespace std;` allows you to access standard library identifiers (like `cout`) without the `std::` prefix.
+
+### C++ Example: Defining and Navigating Namespaces
+```cpp
+#include <iostream>
+
+namespace FirstModule {
+    void display() {
+        std::cout << "Inside FirstModule\n";
+    }
+}
+
+namespace SecondModule {
+    void display() {
+        std::cout << "Inside SecondModule\n";
+    }
+}
+
+int main() {
+    // Calling functions with explicit namespace prefix to avoid conflict
+    FirstModule::display();
+    SecondModule::display();
+
+    // Using directive brings identifiers into the local scope
+    using namespace FirstModule;
+    display(); // Calls FirstModule::display()
+
+    return 0;
+}
+```
 
 # 4. Memory Allocation: Static vs. Dynamic
 
@@ -51,3 +100,42 @@ C++ handles memory in two distinct ways depending on when the allocation occurs:
 
 - **Memory Leaks:** Always free dynamic memory when it is no longer required to prevent performance issues.
 - **Success Verification:** `new` returns a **null pointer (0)** if allocation fails. It is best practice to use the `assert` macro to check that allocation was successful before proceeding with the code.
+
+### C++ Example: Dynamic Memory (`new` and `delete`)
+```cpp
+#include <iostream>
+#include <cassert>
+
+int main() {
+    // 1. Dynamic allocation of a single variable
+    int* ptr = new int(42); // Allocates an integer and initializes to 42
+    assert(ptr != nullptr); // Safety check
+
+    std::cout << "Dynamically allocated value: " << *ptr << "\n";
+    
+    // Deallocate single memory item
+    delete ptr;
+    ptr = nullptr; // Reset pointer to avoid dangling pointer bug
+
+    // 2. Dynamic allocation of an array
+    int size = 4;
+    int* arr = new int[size]; // Allocates contiguous array on the heap
+    assert(arr != nullptr);
+
+    for (int i = 0; i < size; ++i) {
+        arr[i] = (i + 1) * 10;
+    }
+
+    std::cout << "Dynamic array elements: ";
+    for (int i = 0; i < size; ++i) {
+        std::cout << arr[i] << " ";
+    }
+    std::cout << "\n";
+
+    // Deallocate array memory (MUST use delete[])
+    delete[] arr;
+    arr = nullptr;
+
+    return 0;
+}
+```
