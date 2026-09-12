@@ -30,7 +30,3 @@
 6. [[Logical Database Design]]
 7. [[Data Normalization Process and the Normal Forms]]
 8. [[Structured Query Language (SQL)]]
-
----
-# Past Papers
-[[IS 1210 - Database Systems.pdf]]

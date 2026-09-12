@@ -25,7 +25,3 @@
 7. [[Object Discovery and Advanced UML Diagrams]]
 8. [[Object Interaction and Sequence Modeling]]
 9. [[OOAD and Agile (CRC Cards)]]
-
----
-# Past Papers
-[[IS 1208 - System Analysis and Design.pdf]]

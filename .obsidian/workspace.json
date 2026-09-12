@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "add3545e29577691",
+        "id": "c32ca7df2b60a8db",
         "type": "tabs",
         "children": [
           {
-            "id": "35b1a4adeff10228",
+            "id": "6b6f3a5fd923c67a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "Past Papers/Academic Year 02/Semester 01/IS 2203 - Object Oriented Programming.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "IS 2203 - Object Oriented Programming"
             }
           }
         ],
@@ -242,11 +244,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "35b1a4adeff10228",
+  "active": "6b6f3a5fd923c67a",
   "lastOpenFiles": [
-    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Friend Functions and Data Conversion.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/📖 IS2203 - Object Oriented Programming.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Function and Operator Overloading.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/IS2203_OOP_Practical_Questions_and_Answers.md",
     "Past Papers/Academic Year 02/Semester 01/IS 2203 - Object Oriented Programming.pdf",
+    "README.md",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/IS2203_OOP_Practical_Questions_and_Answers.pdf",
+    "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Friend Functions and Data Conversion.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Foundations of the OOP Paradigm.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/C++ Language Fundamentals & Data Structures.md",
     "Academic Year 02/Semester 01/IS2203 - Object Oriented Programming/Anatomy of Classes and Objects.md",
@@ -283,12 +289,8 @@
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/huffman_coding_tree.png",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images/fractional_knapsack_greedy.png",
     "generate_course_diagrams.py",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Images",
     "tmp.md",
     "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Insertion in B-Trees.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Special Graph Types.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Topological Sort.md",
-    "Academic Year 02/Semester 01/IS2202 - Advanced Data Structures and Algorithms/Strongly Connected Components.md",
     "Untitled.canvas"
   ]
 }

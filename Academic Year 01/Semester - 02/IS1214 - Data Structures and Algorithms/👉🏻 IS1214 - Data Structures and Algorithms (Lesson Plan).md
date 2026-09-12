@@ -111,7 +111,3 @@
 # Analogy for Understanding:
 
 Think of these data structures as different ways to organize a **library**. An **array** is like a shelf of books where every slot is numbered; it's easy to find book #10, but if you want to squeeze a new book in the middle, you have to move every other book down. A **linked list** is more like a **scavenger hunt**: each clue (node) tells you where the next clue is. You can easily add a new clue anywhere by just updating the directions, but you have to start at the beginning to find anything at the end.
-
----
-# Past Papers
-[[IS 1214 - Data Structures and Algorithms.pdf]]

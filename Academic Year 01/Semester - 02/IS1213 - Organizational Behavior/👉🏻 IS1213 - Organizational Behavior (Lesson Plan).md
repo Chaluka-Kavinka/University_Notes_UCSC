@@ -56,7 +56,3 @@
 6. [[Emotions & Moods]]
 7. [[Groups & Teams]]
 8. [[Communication]]
-
----
-# Past Papers
-[[IS 1213 - Organizational Behavior.pdf]]
