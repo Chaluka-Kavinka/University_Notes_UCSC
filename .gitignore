@@ -1,0 +1,33 @@
+# Obsidian Vault Settings & Trash
+.obsidian/
+.trash/
+
+# Python & Dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.pip_packages/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary & Editor Files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
